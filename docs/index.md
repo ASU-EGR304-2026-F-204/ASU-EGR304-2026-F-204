@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 <center>
-<font size="8"> Renewable Energy Alternative<br>
+<font size="8">Renewable Energy Alternative<br>
 <font size="5">Team 204<br>
 **Submission: September, 04, 2026**<br>
 Fall 2026<br>
@@ -17,10 +17,7 @@ Professor Nichols<br>
 </center>
 
 ## Team Introduction
-> This will be updated as part of the preparation for the External Review.<br>
->    * This needs to be updated to reflect a team introduction.<br>
->    * Content should also help an unfamiliar reader navigate to areas of interest.
-
+This website documents the current project of team 204 in the fall of 2026 for ASU's EGR 304 class. Below are all the team members and their individual datasheets. The navigation at the top contains the rest of the content for this site.
 
 ## Team Members Datasheet links
 
