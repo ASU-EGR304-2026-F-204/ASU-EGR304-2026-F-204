@@ -6,12 +6,12 @@ tags:
 ---
 <center>
 <font size="8">Project Name<br>
-<font size="5">Team ###<br>
-**Submission: month, DD, YYYY**<br>
-Semester and Year<br>
+<font size="5">Team 204<br>
+**Submission: September, 04, 2026**<br>
+Fall 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Professor Name<br>
+Professor Nichols<br>
   
 
 </center>
@@ -27,6 +27,8 @@ Professor Name<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
+| Jaxon Boyce-Gaudreau   | [JaxonBG.GIthub](https://jaxonbg.github.io/JaxonBG_EGR304_F2x.github.io/) |
+| Name #3                | link |
 | Jaxon Boyce-Gaudreau   | [JaxonBg.Github](https://jaxonbg.github.io/JaxonBG_EGR304_F2x.github.io/) |
 | Christian Martinez     | [Cmart377.Github](https://cmart377.github.io/cmart377_EGR304_F26.github.io/) |
 | Name #4                | link |
