@@ -11,6 +11,4 @@ Our team is focused on delivering a physical product that provides clear value t
 
 ## Product Mission Statement
 
-Describe the distilled purpose, function, or reason for your product to exist. From this form a team mission statement. Google's mission statement is:
-
- > "Google's mission is to organize the world's information and make it universally accessible and useful."
+Our mission is to provide a "Doohickey" to help our target audience understand or interact with the world better.
