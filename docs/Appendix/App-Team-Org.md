@@ -68,13 +68,14 @@ _**Table Legend for Appendix Table 2**_
 | Christian | C |
 | Conner | G |
 
-
 ## Meeting Coordination
 
-1. What method will you use to remind yourselves of meetings (a shared calendar?)
-1. How will your team go about changing or adding meeting times?
-1. What's the preferred format for meetings (face-to-face or virtually)?
-1. Are there any other procedures that your team feels are necessary?
+- It is each team member's responsibility to keep track of scheduled meetings and remember to attend them.
+- Team members may contact other members to remind them of a scheduled meeting.
+- Changing/adding of meeting times will be done either in person or through established communication channels.
+- Meetings may be changed in case of unforseen time conflicts.
+- The number of meetings may be increased or decreased depending on the anticipated workload of the team.
+- Depending on the content of a meeting, it may be either online or in-person.
 
 ## Roles & Responsibilities
 
