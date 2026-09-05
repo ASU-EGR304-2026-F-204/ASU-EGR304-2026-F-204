@@ -7,7 +7,7 @@ tags:
 
 ## Team Charter
 
-Our team is committed to working together in an inclusive and supportive way that reflects ASU’s focus on helping everyone succeed. We’ll communicate professionally, stay responsible for our individual tasks, and maintain a respectful environment where everyone’s ideas are taken seriously. Overall, we aim to collaborate efficiently and produce quality work that represents our shared effort.
+Our team is focused on delivering a physical product that provides clear value to its target users and meets defined performance criteria. We will follow a complete engineering workflow to produce a reliable, manufacturable prototype supported by professional documentation. Through strong collaboration and disciplined execution, we aim to create a high‑quality product that reflects real‑world engineering standards and is ready for further development or market evaluation.
 
 ## Product Mission Statement
 
