@@ -34,8 +34,9 @@ Based on the information provided on in the "Team Member Communication Modes," t
  
 ## Communication Procedures
 
-1. How will your team communicate?
-2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
+- Primary and urgent communications will be done via text messages. A group chat will be used to keep everyone on the same page.
+- Files and other communications containing larger amounts of information will be done via email.
+- In the event of instructor correspondence, one team member will be designated (or designate themselves) as the primary point of contact for the specific instance. Any emails to/from the instructor or TAs will be CC'd or forwarded to the rest of the team.
 
 ## Meeting Schedule
 
