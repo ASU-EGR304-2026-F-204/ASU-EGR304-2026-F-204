@@ -7,15 +7,15 @@ tags:
 
 ## Team Goals
 
-Weekly progress points — Our team will meet each week to review what we’ve completed, identify any blockers, and set clear objectives for the next work period.
+Design a product with real-world value — Create a device that solves a practical problem for a specific user group.
 
-Professional communication — We will communicate respectfully and consistently using agreed‑upon channels, keeping messages clear, timely, and relevant to the project.
+Learn the full product development process — Gain hands‑on experience moving from early concept sketches, functional schematic. Resulting in a functional prototype.
 
-Self responsibility / team responsibility — Each member will take responsibility for their own tasks while supporting the team by staying accountable, dependable, and transparent about progress.
+Develop skills that translate to internships — Use this project to practice teamwork, documentation, and technical communication that employers will actually look for.
 
-Respectful behavior — We will maintain a respectful environment where everyone’s ideas are heard, disagreements are handled constructively, and collaboration stays positive.
+Build something portfolio‑ready — Produce a polished prototype and clear explanation of its design choices so it can be showcased in future interviews.
 
-Clear assignment roles — We will define and stick to clear roles for each member so responsibilities are understood and work is divided efficiently.
+Strengthen engineering confidence — Use the project as a chance to prove to yourself that you can take an idea, engineer it, and make it physically real and viable. 
 
 ## Communication Channels
 
