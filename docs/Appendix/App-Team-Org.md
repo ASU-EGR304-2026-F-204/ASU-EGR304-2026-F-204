@@ -7,15 +7,15 @@ tags:
 
 ## Team Goals
 
-Design a product with real-world value — Create a device that solves a practical problem for a specific user group.
+Deliver a validated user solution — Ensure the product solves a clearly defined user problem and meets measurable performance requirements through testing and feedback.
 
-Learn the full product development process — Gain hands‑on experience moving from early concept sketches, functional schematic. Resulting in a functional prototype.
+Execute a full engineering lifecycle — Follow a structured workflow from requirements and system architecture to prototyping, verification, and refinement.
 
-Develop skills that translate to internships — Use this project to practice teamwork, documentation, and technical communication that employers will actually look for.
+Design for manufacturability — Create a prototype that can transition into scalable production using realistic materials, processes, and cost constraints.
 
-Build something portfolio‑ready — Produce a polished prototype and clear explanation of its design choices so it can be showcased in future interviews.
+Maintain engineering quality standards — Produce reliable hardware, robust firmware, and clear documentation that align with professional engineering norms and compliance expectations.
 
-Strengthen engineering confidence — Use the project as a chance to prove to yourself that you can take an idea, engineer it, and make it physically real and viable. 
+Produce professional documentation — Deliver clean schematics, code comments, and reports that reflect industry‑level clarity and organization.
 
 ## Communication Channels
 
