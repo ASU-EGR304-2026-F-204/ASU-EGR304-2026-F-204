@@ -46,18 +46,18 @@ _**Appendix Table 2**: Weekly Schedule_
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
 | 8:00 AM  | -       | -       | -    | - | -    | - | - |
 | 9:00 AM  | -       | -       | -    | - | -    | - | - |
-| 10:00 AM | -       | J       | -    | J | -    | - | A |
-| 11:00 AM | -       | J       | -    | J, A | -    | J, A | A |
-| 12:00 PM | J, A    | J       | -    | J, A | -    | J, A | A |
-| 1:00 PM  | J, A    | -       | -    | - | -    | J, A | J, A |
-| 2:00 PM  | J, A    | -       | -    | - | -    | J, A | J, A |
-| 3:00 PM  | J, A    | -       | -    | - | -    | J, A | J, A |
-| 4:00 PM  | J, A    | A       | A    | A | A    | J | J, A |
-| 5:00 PM  | J, A    | A       | A    | A | A    | - | A |
-| 6:00 PM  | J, A, G | A, G    | G    | A, G | G | G | A, G |
-| 7:00 PM  | J, A, G | A, G    | J, G | J, A, G | J, G | G | G |
-| 8:00 PM  | J, A, G | J, A, G | J, G | J, A, G | J, G | G | G |
-| 9:00 PM  | J, A, G | J, A, G | J, G | J, A, G | J, G | G | G |
+| 10:00 AM | C       | J       | -    | J | -    | - | A |
+| 11:00 AM | C       | J       | -    | J, A | -    | J, A, C | A |
+| 12:00 PM | J, A, C | J       | -    | J, A | -    | J, A, C | A |
+| 1:00 PM  | J, A, C    | -       | -    | - | -    | J, A, C | J, A, C |
+| 2:00 PM  | J, A, C    | -       | -    | - | -    | J, A, C | J, A, C |
+| 3:00 PM  | J, A, C    | -       | C    | - | C    | J, A, C | J, A, C |
+| 4:00 PM  | J, A, C    | A       | A, C    | A | A, C    | J, C | J, A, C |
+| 5:00 PM  | J, A, C    | A       | A, C    | A | A, C    | C | A, C |
+| 6:00 PM  | J, A, G, C | A, G    | G, C    | A, G | G, C | G, C | A, G, C |
+| 7:00 PM  | J, A, G, C | A, G, C    | J, G, C | J, A, G, C | J, G | G, C | G, C |
+| 8:00 PM  | J, A, G, C | J, A, G, C | J, G, C | J, A, G, C | J, G | G, C | G, C |
+| 9:00 PM  | J, A, G, C | J, A, G, C | J, G, C | J, A, G, C | J, G | G, C | G, C |
 
 _**Table Legend for Appendix Table 2**_
 
@@ -67,6 +67,8 @@ _**Table Legend for Appendix Table 2**_
 | Jaxon | J |
 | Christian | C |
 | Conner | G |
+
+Based on the availability of all team members, meetings will likely be Sundays and Wednesdays from 7-9PM.
 
 ## Meeting Coordination
 
