@@ -15,10 +15,10 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
-|Member 2 |  ? | ? | ? |
-|Member 3 |  ? | ? | ? |
-|Member 4 |  ? | ? | ? |
+|Member 1             |  ? | ? | ? |
+|Jaxon Boyce-Gaudreau | Phone Number | Social media | Canvas/Email |
+|Member 3             |  ? | ? | ? |
+|Member 4             |  ? | ? | ? |
 
 ### Main Method for Group Communication
 
@@ -35,27 +35,27 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | M | - | M | - | - |
-| 9:00 AM | - | F | M | - | M | - | - |
-| 10:00 AM | - | B | M | - | M | - | - |
-| 11:00 AM | - | B | M | - | M | - | - |
-| 12:00 PM | Z | B, Z | M | - | M | - | - |
-| 1:00 PM | Z, F |  | M | - | M | - | - |
-| 2:00 PM | Z, F | - | M | - | M | - | - |
-| 3:00 PM | Z | - | M | - | M | - | - |
-| 4:00 PM | - | - | M | - | M | - | - |
-| 5:00 PM | - | - | M | - | M | - | - |
-| 6:00 PM | - | - | M | - | M | - | - |
-| 7:00 PM | - | - | M | - | M | - | - |
-| 8:00 PM | - | - | M | - | M | - | - |
-| 9:00 PM | - | - | M | - | M | - | - |
+| 8:00 AM  | -       | -       | M    | - | M    | - | - |
+| 9:00 AM  | -       | F       | M    | - | M    | - | - |
+| 10:00 AM | -       | B, J    | M    | J | M    | - | - |
+| 11:00 AM | -       | B, J    | M    | J | M    | J | - |
+| 12:00 PM | Z, J    | B, Z, J | M    | J | M    | J | - |
+| 1:00 PM  | Z, F, J | -       | M    | - | M    | J | J |
+| 2:00 PM  | Z, F, J | -       | M    | - | M    | J | J |
+| 3:00 PM  | Z, J    | -       | M    | - | M    | J | J |
+| 4:00 PM  | J       | -       | M    | - | M    | J | J |
+| 5:00 PM  | J       | -       | M    | - | M    | - | - |
+| 6:00 PM  | J       | -       | M    | - | M    | - | - |
+| 7:00 PM  | J       | -       | M, J | J | M, J | - | - |
+| 8:00 PM  | J       | J       | M, J | J | M, J | - | - |
+| 9:00 PM  | J       | J       | M, J | J | M, J | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
 | Bill | B |
-| Mary | M |
+| Jaxon | J |
 | Zane | Z |
 | Felicity | F |
 
