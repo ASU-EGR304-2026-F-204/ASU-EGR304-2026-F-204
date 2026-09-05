@@ -26,7 +26,7 @@ Professor Nichols<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
-| Jaxon Boyce-Gaudreau   | [JaxonBG.GIthub](https://jaxonbg.github.io/JaxonBG_EGR304_F2x.github.io/) |
+| Alessandro Marcolini   | [amarcolini_EGR304_F26](https://amarcolini.github.io/amarcolini_EGR304_F26/) |
+| Jaxon Boyce-Gaudreau   | [JaxonBG.Github](https://jaxonbg.github.io/JaxonBG_EGR304_F2x.github.io/) |
 | Christian Martinez     | [Cmart377.Github](https://cmart377.github.io/cmart377_EGR304_F26.github.io/) |
-| Name #4                | link |
+| Conner Griswold        | [GrizzyWizzy.Github](https://github.com/GrizzyWizzy/GrizzyWizzy_EGR304_F26.github.io) |

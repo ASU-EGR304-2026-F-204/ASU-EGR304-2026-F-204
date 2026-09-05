@@ -15,10 +15,10 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1             |  ? | ? | ? |
+|Alessandro Marcolini | Phone Number | Email | Discord/GroupMe |
 |Jaxon Boyce-Gaudreau | Phone Number | Social media | Canvas/Email |
-|Member 3             |  ? | ? | ? |
-|Member 4             |  ? | ? | ? |
+|Christian Martinez   |  ? | ? | ? |
+|Conner Griswold      |  ? | ? | ? |
 
 ### Main Method for Group Communication
 
@@ -35,29 +35,29 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM  | -       | -       | M    | - | M    | - | - |
-| 9:00 AM  | -       | F       | M    | - | M    | - | - |
-| 10:00 AM | -       | B, J    | M    | J | M    | - | - |
-| 11:00 AM | -       | B, J    | M    | J | M    | J | - |
-| 12:00 PM | Z, J    | B, Z, J | M    | J | M    | J | - |
-| 1:00 PM  | Z, F, J | -       | M    | - | M    | J | J |
-| 2:00 PM  | Z, F, J | -       | M    | - | M    | J | J |
-| 3:00 PM  | Z, J    | -       | M    | - | M    | J | J |
-| 4:00 PM  | J       | -       | M    | - | M    | J | J |
-| 5:00 PM  | J       | -       | M    | - | M    | - | - |
-| 6:00 PM  | J       | -       | M    | - | M    | - | - |
-| 7:00 PM  | J       | -       | M, J | J | M, J | - | - |
-| 8:00 PM  | J       | J       | M, J | J | M, J | - | - |
-| 9:00 PM  | J       | J       | M, J | J | M, J | - | - |
+| 8:00 AM  | -       | -       | -    | - | -    | - | - |
+| 9:00 AM  | -       | -       | -    | - | -    | - | - |
+| 10:00 AM | -       | J       | -    | J | -    | - | A |
+| 11:00 AM | -       | J       | -    | J, A | -    | J, A | A |
+| 12:00 PM | J, A    | J       | -    | J, A | -    | J, A | A |
+| 1:00 PM  | J, A    | -       | -    | - | -    | J, A | J, A |
+| 2:00 PM  | J, A    | -       | -    | - | -    | J, A | J, A |
+| 3:00 PM  | J, A    | -       | -    | - | -    | J, A | J, A |
+| 4:00 PM  | J, A    | A       | A    | A | A    | J | J, A |
+| 5:00 PM  | J, A    | A       | A    | A | A    | - | A |
+| 6:00 PM  | J, A    | A       | -    | A | -    | - | A |
+| 7:00 PM  | J, A    | A       | J    | J, A | J    | - | - |
+| 8:00 PM  | J, A    | J, A    | J    | J, A | J    | - | - |
+| 9:00 PM  | J, A    | J, A    | J    | J, A | J    | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
-| Bill | B |
+| Alessandro | A |
 | Jaxon | J |
-| Zane | Z |
-| Felicity | F |
+| Christian | C |
+| Conner | G |
 
 
 ## Meeting Coordination
@@ -76,7 +76,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
 | Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
 | Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
-| Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+| Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team me-bers apprised of deadlines and project status |
 
 ## Conflict Recognition & Resolution
 
@@ -85,6 +85,6 @@ Need to add content!!
 
 ## Signatures
 
-Jaxon Boyce-Gaudreau 204
-Need to add content!!
+Alessandro Marcolini 204
 
+Jaxon Boyce-Gaudreau 204
