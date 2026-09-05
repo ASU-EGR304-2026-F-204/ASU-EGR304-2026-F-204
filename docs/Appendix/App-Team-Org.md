@@ -7,7 +7,15 @@ tags:
 
 ## Team Goals
 
-List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
+Weekly progress points — Our team will meet each week to review what we’ve completed, identify any blockers, and set clear objectives for the next work period.
+
+Professional communication — We will communicate respectfully and consistently using agreed‑upon channels, keeping messages clear, timely, and relevant to the project.
+
+Self responsibility / team responsibility — Each member will take responsibility for their own tasks while supporting the team by staying accountable, dependable, and transparent about progress.
+
+Respectful behavior — We will maintain a respectful environment where everyone’s ideas are heard, disagreements are handled constructively, and collaboration stays positive.
+
+Clear assignment roles — We will define and stick to clear roles for each member so responsibilities are understood and work is divided efficiently.
 
 ## Communication Channels
 
