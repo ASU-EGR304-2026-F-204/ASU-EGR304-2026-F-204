@@ -7,9 +7,7 @@ tags:
 
 ## Team Charter
 
-From the ... which can be reviewed in ["Appendix: Team Organization"](https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/App-Team-Org/), the team's charter formed to be (showing ASU's Charter as an Example):
-
-> "ASU is a comprehensive public research university, measured not by whom it excludes, but by whom it includes and how they succeed; advancing research and discovery of public value; and assuming fundamental responsibility for the economic, social, cultural and overall health of the communities it serves." (ASU's Charter)
+Our team is committed to working together in an inclusive and supportive way that reflects ASU’s focus on helping everyone succeed. We’ll communicate professionally, stay responsible for our individual tasks, and maintain a respectful environment where everyone’s ideas are taken seriously. Overall, we aim to collaborate efficiently and produce quality work that represents our shared effort.
 
 ## Product Mission Statement
 
