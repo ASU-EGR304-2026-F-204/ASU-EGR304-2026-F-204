@@ -28,7 +28,5 @@ Professor Nichols<br>
 | ---------------------- | -----------------------|
 | Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
 | Jaxon Boyce-Gaudreau   | [JaxonBG.GIthub](https://jaxonbg.github.io/JaxonBG_EGR304_F2x.github.io/) |
-| Name #3                | link |
-| Jaxon Boyce-Gaudreau   | [JaxonBg.Github](https://jaxonbg.github.io/JaxonBG_EGR304_F2x.github.io/) |
 | Christian Martinez     | [Cmart377.Github](https://cmart377.github.io/cmart377_EGR304_F26.github.io/) |
 | Name #4                | link |
