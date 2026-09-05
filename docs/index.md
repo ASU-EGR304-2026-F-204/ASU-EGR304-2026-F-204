@@ -27,6 +27,6 @@ Professor Name<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
-| Name #2                | link |
+| Jaxon Boyce-Gaudreau   | [JaxonBg.Github](https://jaxonbg.github.io/JaxonBG_EGR304_F2x.github.io/) |
 | Name #3                | link |
 | Name #4                | link |
