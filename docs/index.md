@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
+<font size="8"> Renewable Energy Alternative<br>
 <font size="5">Team 204<br>
 **Submission: September, 04, 2026**<br>
 Fall 2026<br>
