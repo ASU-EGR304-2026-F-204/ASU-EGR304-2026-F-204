@@ -23,14 +23,14 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Alessandro Marcolini | Phone Number | Email | Discord/GroupMe |
+|Alessandro Marcolini | Phone Number | Discord/GroupMe | Email |
 |Jaxon Boyce-Gaudreau | Phone Number | Social media | Canvas/Email |
-|Christian Martinez   |  ? | ? | ? |
-|Conner Griswold      |  ? | ? | ? |
+|Christian Martinez   | Phone Number | Social media | Canvas/Email |
+|Conner Griswold      | Phone Number | Social media | Email |
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
+Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is via phone number.
  
 ## Communication Procedures
 
@@ -53,10 +53,10 @@ _**Appendix Table 2**: Weekly Schedule_
 | 3:00 PM  | J, A    | -       | -    | - | -    | J, A | J, A |
 | 4:00 PM  | J, A    | A       | A    | A | A    | J | J, A |
 | 5:00 PM  | J, A    | A       | A    | A | A    | - | A |
-| 6:00 PM  | J, A    | A       | -    | A | -    | - | A |
-| 7:00 PM  | J, A    | A       | J    | J, A | J    | - | - |
-| 8:00 PM  | J, A    | J, A    | J    | J, A | J    | - | - |
-| 9:00 PM  | J, A    | J, A    | J    | J, A | J    | - | - |
+| 6:00 PM  | J, A, G | A, G    | G    | A, G | G | G | A, G |
+| 7:00 PM  | J, A, G | A, G    | J, G | J, A, G | J, G | G | G |
+| 8:00 PM  | J, A, G | J, A, G | J, G | J, A, G | J, G | G | G |
+| 9:00 PM  | J, A, G | J, A, G | J, G | J, A, G | J, G | G | G |
 
 _**Table Legend for Appendix Table 2**_
 
@@ -99,3 +99,7 @@ We are all adults, and maintaining open communication is essential. If you have 
 Alessandro Marcolini 204
 
 Jaxon Boyce-Gaudreau 204
+
+Conner Griswold 204
+
+Christian Martinez 204
