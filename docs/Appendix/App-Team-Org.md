@@ -78,14 +78,23 @@ _**Table Legend for Appendix Table 2**_
 
 ## Roles & Responsibilities
 
-_**Appendix Table 2**: Project Roles and Duties_
+_**Appendix Table 3**: Project Roles and Duties_
 
 | **Role**          | **Duties**                                                                                                                                |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
 | Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
 | Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
 | Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
-| Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team me-bers apprised of deadlines and project status |
+| Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+
+Roles and responsibilities on the team will be divided as equitably as possible. Roles will be re-reviewed on a monthly basis to rotate roles if all team members are in agreement, or sooner if a particular member desires a role change. Technical responsibilities for specific aspects of the project will be divided equitably and assigned sometimes based on technical ability. Efforts will be made to help team members sometimes take on technical responsibilities in areas they are unfamiliar with to further their ability. Specific accountability and tracking decisions will be made by the member with the role under which the decision falls, or by a team decision should the member decide.
+
+Current role assignments:
+
+- Meeting leader: Jaxon
+- Meeting recorder: Conner
+- Assignment leader: Alessandro
+- Project monitor: Christian
 
 ## Conflict Recognition & Resolution
 If a team member anticipates a conflict with an upcoming due date because of prior commitments, it is their responsibility to either complete their portion of the work in advance or arrange for another team member to cover their tasks. When someone does step in to assist, it is expected—and appreciated—that the original team member reciprocates by taking on additional work for a future assignment or project.
@@ -93,7 +102,6 @@ If a team member anticipates a conflict with an upcoming due date because of pri
 If a conflict arises between team members, they may choose to resolve the issue privately or involve the rest of the group at their discretion. Should these approaches fail to resolve the matter, the team will contact the professor as a final step.
 
 We are all adults, and maintaining open communication is essential. If you have a concern with another team member, speak up respectfully so that adjustments can be made early in the semester. Our shared goal is to collaborate effectively and ensure strong performance throughout the course.  
-
 
 ## Signatures
 
