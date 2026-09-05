@@ -79,8 +79,11 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team me-bers apprised of deadlines and project status |
 
 ## Conflict Recognition & Resolution
+If a team member anticipates a conflict with an upcoming due date because of prior commitments, it is their responsibility to either complete their portion of the work in advance or arrange for another team member to cover their tasks. When someone does step in to assist, it is expected—and appreciated—that the original team member reciprocates by taking on additional work for a future assignment or project.
 
-Need to add content!!
+If a conflict arises between team members, they may choose to resolve the issue privately or involve the rest of the group at their discretion. Should these approaches fail to resolve the matter, the team will contact the professor as a final step.
+
+We are all adults, and maintaining open communication is essential. If you have a concern with another team member, speak up respectfully so that adjustments can be made early in the semester. Our shared goal is to collaborate effectively and ensure strong performance throughout the course.  
 
 
 ## Signatures
