@@ -14,7 +14,9 @@ title: User Needs and Benchmarking
 
 #### 1. [Tinkering Labs Robotics Engineering Kit](https://www.amazon.com/Tinkering-Labs-Electric-Engineering-Experiments/dp/B01M5GJFQ1/) < (link to the product)
 
-![ HS500 Heart Rate Monitor](https://github.com/ASU-EGR304-2026-F-204/ASU-EGR304-2026-F-204/blob/main/Screenshot%202026-09-14%20192702.png?raw=true)
+![](image1.png)
+
+**(include a picture)**
 
 * Price: $65
 
@@ -50,9 +52,7 @@ title: User Needs and Benchmarking
 
 #### 1. [GEOID HS500 Heart Rate Monitor](https://www.amazon.com/GEOID-Monitor-Protocol-Bluetooth-Compatible/dp/B09SKZBZF8/ref=asc_df_B09SKZBZF8?tag=bingshoppinga-20&linkCode=df0&hvadid=80127120445046&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=77723&hvtargid=pla-4583726598784020&psc=1&hvocijid=8865271711032705098-B09SKZBZF8-&hvexpln=0) < (link to the product)
 
-![](image1.png)
-
-**(include a picture)**
+![ HS500 Heart Rate Monitor ](https://github.com/ASU-EGR304-2026-F-204/ASU-EGR304-2026-F-204/blob/main/Screenshot%202026-09-14%20192702.png?raw=true)
 
 * Price: $22.99
 
