@@ -133,7 +133,7 @@ title: User Needs and Benchmarking
 
 #### 1. [Senior Fitness Tracker Watch - Heart Rate Blood Pressure LED Band](https://www.braydenandlane.com/products/senior-fitness-tracker-watch-heart-rate-blood-pressure-led-band?currency=USD&country=US&variant=58608487301494&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=5d17fd197611&gad_source=1&gad_campaignid=23452101265&gbraid=0AAAABChJ29THzVDJDSV4Wx7jDSAiJPZEy&gclid=CjwKCAjwtp7VBhBjEiwAJfpV-_oDOQBLYfd7gZvmuJt0X2MLPEsApwok2_kbwT8sZd0nCLxG-ezbYxoCDBAQAvD_BwE) < (link to the product)
 
-![Senior Fitness Tracker Watch - Heart Rate Blood Pressure LED Band](https://github.com/ASU-EGR304-2026-F-204/ASU-EGR304-2026-F-204/blob/main/Screenshot%202026-09-14%20192702.png?raw=true)
+![Senior Fitness Tracker Watch - Heart Rate Blood Pressure LED Band](https://github.com/ASU-EGR304-2026-F-204/ASU-EGR304-2026-F-204/blob/main/docs/image/Screenshot%202026-09-14%20221558.png)
 
 * Price: $59.99
 
