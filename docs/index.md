@@ -5,9 +5,9 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Renewable Energy Alternative<br>
+<font size="8">Heart Rate Monitor<br>
 <font size="5">Team 204<br>
-**Submission: September, 04, 2026**<br>
+**Submission: September, 14, 2026**<br>
 Fall 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
