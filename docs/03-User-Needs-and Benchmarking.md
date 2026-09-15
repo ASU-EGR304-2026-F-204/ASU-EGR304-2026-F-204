@@ -124,7 +124,42 @@ title: User Needs and Benchmarking
 ### Selected Products
 
 #### 3. Next Product goes here
+### Search #3
 
+**Keywords:** "Simple Heart Rate Monitor for Exercise"
+
+**Search Results Link:** [https://www.google.com/search?sca_esv=d4faa8f985ca3215&sxsrf=APpeQnsPfMQ1vcLKBBAdRfw5TRnmJGpG4w:1789446046740&q=simple+heart+rate+monitor+for+exercise&source=lnms&fbs=ABfTbFWX8Can4Rb7JjuFvBw79YrXQMyJMofRft37fxW-VQ0iJcb-TVtMT2eZIreEjxT1y-wf13Eos8r81gP3ULB-yp1wUdlcaNlA5IKel27kAstk9ijmdfJ3Ry0ifpLA4FTuP4o2kYuyi5-0GT3YTspRAvPWw9o2Jtwvia2g4YHUDQ1OlQfvjmA1WykvnkZBISRD9WMQKC2Pl2KUFtQ-MUOwzc33agYgp9duxjhnWVouxAOrt57L6bM&sa=X&ved=2ahUKEwjsjdf_3e-WAxWOmmoFHWuQKKkQ0pQJegQIDhAB&biw=1760&bih=901&dpr=1](https://www.google.com/search?sca_esv=d4faa8f985ca3215&sxsrf=APpeQnsPfMQ1vcLKBBAdRfw5TRnmJGpG4w:1789446046740&q=simple+heart+rate+monitor+for+exercise&source=lnms&fbs=ABfTbFWX8Can4Rb7JjuFvBw79YrXQMyJMofRft37fxW-VQ0iJcb-TVtMT2eZIreEjxT1y-wf13Eos8r81gP3ULB-yp1wUdlcaNlA5IKel27kAstk9ijmdfJ3Ry0ifpLA4FTuP4o2kYuyi5-0GT3YTspRAvPWw9o2Jtwvia2g4YHUDQ1OlQfvjmA1WykvnkZBISRD9WMQKC2Pl2KUFtQ-MUOwzc33agYgp9duxjhnWVouxAOrt57L6bM&sa=X&ved=2ahUKEwjsjdf_3e-WAxWOmmoFHWuQKKkQ0pQJegQIDhAB&biw=1760&bih=901&dpr=1)
+
+### Selected Products
+
+#### 1. [Senior Fitness Tracker Watch - Heart Rate Blood Pressure LED Band](https://www.braydenandlane.com/products/senior-fitness-tracker-watch-heart-rate-blood-pressure-led-band?currency=USD&country=US&variant=58608487301494&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=5d17fd197611&gad_source=1&gad_campaignid=23452101265&gbraid=0AAAABChJ29THzVDJDSV4Wx7jDSAiJPZEy&gclid=CjwKCAjwtp7VBhBjEiwAJfpV-_oDOQBLYfd7gZvmuJt0X2MLPEsApwok2_kbwT8sZd0nCLxG-ezbYxoCDBAQAvD_BwE) < (link to the product)
+
+![Senior Fitness Tracker Watch - Heart Rate Blood Pressure LED Band](https://github.com/ASU-EGR304-2026-F-204/ASU-EGR304-2026-F-204/blob/main/Screenshot%202026-09-14%20192702.png?raw=true)
+
+* Price: $59.99
+
+* Vendor: Brayden and Lane 
+
+* Description: A simple, senior‑friendly fitness tracker with a large LED display, heart‑rate and blood‑pressure monitoring, step and sleep tracking, USB plug‑in charging, soft silicone band, and vibration alerts for calls, texts, meds, and inactivity. It’s designed to be easy to read, easy to use, and comfortable for all‑day wear.
+
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Bought this for my 72-year-old mother and she loves it! The 0.94-inch LED screen is super clear and easy for her to read without glasses."                                                                                                  | 1. Clear Interface (explicit)|
+|                                                                                                                       | 2. Easy to Navigate ( explicit) |
+| "Great battery life and clear sedentary reminders to keep active during the day. Highly recommend for seniors."        | 1. Good Battery Life (explicit) |
+| "Very easy health monitoring. Tracks blood pressure, heart rate, and steps accurately without complicated smartphone setup."                                                                                                                 | 1.  Works as Intended (explicit) |
+
+##### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| "The silicone band that is very rough on sensitive skin."                                                              | 1. Uncomfortable (explicit)                       |
+|                                                                                                                        | 2. Sensitive Skin Friendly (latent) |
+| "Too expensive for what it actually"                                                                                  | 1. Expensive (explicit) |
+|
+| 2. Functionality does not justify price (latent) |
 #### 4. Next Product goes here
 
 #### 5. Next Product goes here
