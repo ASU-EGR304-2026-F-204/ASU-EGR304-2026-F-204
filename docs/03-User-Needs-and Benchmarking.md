@@ -107,7 +107,7 @@ title: User Needs and Benchmarking
 | "The battery life is amazing on this Fitbit Charge 6 with coral strap."                                                                                               | 1.  Reliable and cost efficient (explicit)                                          |
 |                                                                                              "I upgraded from the Charge 5
  What I like about the Charge 6:
-- Great price"                                                                                          | 2. Low price for quality ( explicit) |
+- Great price"                                                                                          | 2. Low price for quality (explicit) |
 | "Works great with the app. The connection is swift and easy and the things it tracks is supurb"                                                                                                             | 1.  Very easy to connect with app (explicit)                                        |
 | "I have had a couple of different types of Fitbit trackers over the last several years. This one has been the best one yet because it is very comfortable to wear even while sleeping."                                                                                                       | 1.  Comfortable to use during the night (explicit)                               |
 
