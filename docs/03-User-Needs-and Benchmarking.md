@@ -145,6 +145,43 @@ title: User Needs and Benchmarking
 | "It arrived in a box within the box a sealed package, first thing I noticed when unpacking was scratches on the back electrode. But it seems to work fine. Quality control could be better." | 1. Product is packaged with care (explicit) |
 | "I've found it a bit finicky when it comes to using the ankle or knee to record an EKG. I've watched videos and read instructions in the app multiple times, thinking I must be doing something wrong. It takes a little while for me to get it working and sense my ankle/knee. This has made it extra hard for me to record said skipping heartbeat." | 1. Product works without much effort (explicit) |
 
+### Search #5
+
+ **Keywords:** "Heart Rate Monitor"
+
+ **Search Results Link:** <https://www.google.com/search?sa=X&sca_esv=ec9bfc1f3b77e3d9&sxsrf=APpeQnsQ3wsGRAeVWAbd4C8nHDXeZYRpjw:1789454543644&udm=28&fbs=ABfTbFWX8Can4Rb7JjuFvBw79YrXuK78L_sHkEUm6BGU2Xt8MB1DoILzmSB4Yn2o139vCK2e3gonapooXVOEA3fRUwExu33wgP3imytGw_kr9SJRv03QDzf36Qkrgq9OIE77k4nnHGcrHcioXlPoYt8PNsFdKEawPqzXJj9jTVPQtQy29lYjeaxlHvFZ1M5hmjuGyldqvsUj9G6Q1syHNqwtN32toAk1ACa0bR_-37nYSZxj0jdfUK8&q=heart+rate+monitor&ved=1t:220175&ictx=111&biw=1259&bih=902&dpr=1>
+
+### Selected Products
+
+#### 1. [Rechargeable Oxygen Meter Finger Pulse Oximeter, Bluetooth Fingertip Blood Oxygen Saturation Monitor with Pulse Rate, Batteries and Lanyard Included, Free APP](https://www.amazon.com/Vibeat-Rechargeable-Bluetooth-Fingertip-Saturation/dp/B0B8SBK8LR/ref=sr_1_1_sspa?adgrpid=189931014641&dib=eyJ2IjoiMSJ9.zlIbpzdifYvr3vD4STg7Ry1wfBUIavVKPFfwnksJ14ieFqehugQUl4AhMomtO-OzPD5P-oqjmNtpgIjBCjfqvVOJt6QvZNK8XN6hL-D8wiDoJqqDUYVG0qaTdxirpxs6waaTAdQCO_Sj3qtFkuPT9IjwA8j9Tf3G5w3fZk0dOZUKNbaASEu0iKkMHmoKJZDXOK9QsmzZ-eIYQgDu4TAuG5It9MmnBKwcvwtKammdVzD401X41Qnn1nSMSoh37CsrZDpxAhKlc3ae9_0CN0kG9nrJjLOYCWp1g5wNXkiq8Wo.4VghYK1OujsIoxFHaTSAD_VqYXKY0TmLnDbMOo2Sdl4&dib_tag=se&hvadid=779676761516&hvdev=c&hvexpln=0&hvlocphy=9030039&hvnetw=g&hvocijid=6854201085988538605--&hvqmt=e&hvrand=6854201085988538605&hvtargid=kwd-2392895990550&hydadcr=6637_13363801_2331109&keywords=vibeat+pulse+oximeter+fingertip&mcid=cb2759023e85338bbb335c900b70bbca&qid=1789455032&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1#averageCustomerReviewsAnchor)
+
+![Rechargeable Oxygen Meter Finger Pulse Oximeter, Bluetooth Fingertip Blood Oxygen Saturation Monitor with Pulse Rate, Batteries and Lanyard Included, Free APP](image/competitors/Senior_fitness_tracker.png)
+
+* Price: $39.99
+
+* Vendor: Amazon
+
+* Description: The Vibeat S5 Fingertip Pulse Oximeter is a high‑accuracy SpO₂ and heart‑rate monitor that clips onto your finger and gives fast readings on a bright OLED display. It’s designed for sports and aviation use, offering alerts, 12‑reading memory, spot‑check or continuous modes, and automatic start/stop.
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Works well. Accurate, fast, easy to see. Warm your fingers first if it doesnt pick up well, that helps with all pulseox, in my experience. Comes with type A to C charger cord, and required charging before first use. I used a trickle charger base (older tech) to prevent overcharging and shorting out, but I'm not sure if that was needed. Definitely recommend."                          | 1. Works as Intended (explicit)|
+|                                                                                                                                                                                                   | 2. Accurate Readings ( explicit) |
+| "Accurate, comfortable and rechargeable. Love the fact that it doesn’t have batteries like my last one. Would buy again"        | 1. Rechargeable Battery (explicit) |
+| "Quick charge and it's accurate"                                                                                                                 | 1. Quick to Charge (explicit) |
+
+##### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| "Sold as a "Blood Oxygen Saturation Monitor” It is not! I expected an assessment of dissolved oxygen in my blood plasma but what the readout showed was hemoglobin oxygen saturation which can never exceed 100% even in a HBOT chamber"                                                                                | 1. Misleading Advertisement (explicit)                       |
+|                                                                                                                        | 2. Readings dont have Proper Limits (latent) |
+| "Won't hold a charge after 3 months of use. I cannot and will not recommend this product to my medical circle. Look elsewhere."                                                                        | 1. Poor Battery Life (latent) |
+|                                                                                                                        
+| "This product is giving me trouble pairing it to phone, wrote to to support and they sent me a way to pair it but still it does not detect any device to be paired"                                                                       | 1. Poor App Pairing (latent) |
+|
+| 2. Poor Connectivity (latent)|
 ## Organized Need Statements
 
 ### First Placement
