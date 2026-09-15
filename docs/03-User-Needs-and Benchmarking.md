@@ -2,7 +2,7 @@
 title: User Needs and Benchmarking
 ---
 
-## Voice of the Customer Benchmarking Example
+## Voice of the Customer Benchmarking
 
 ### Search #1
 
@@ -110,9 +110,40 @@ title: User Needs and Benchmarking
 |                                                                                                                        | 2. Functionality does not justify price (latent) |
 | "No smartphone sync features" | 1. Able to export sensor data |
 
-#### 4. Next Product goes here
+### Search #4
 
-#### 5. Next Product goes here
+ **Keywords:** "Heart rate monitor"
+
+ **Search Results Link:** <https://www.amazon.com/heart-rate-monitor/s?k=heart+rate+monitor>
+
+### Selected Products
+
+#### 1. [KardiaMobile 6L EKG](https://www.amazon.com/KardiaMobile-Membership-Required-Unlimited-Recordings/dp/B07RQW6SD5)
+
+![KardiaMobile 6L EKG](https://m.media-amazon.com/images/I/71Wes2s9+JL._AC_SL1500_.jpg)
+
+* Price: $129.00
+
+* Vendor: ALIVECOR
+
+* Description: KardiaMobile 6L is the world’s first FDA-cleared, six-lead personal EKG. Record a medical-grade EKG in just 30 seconds and see instant results on your phone for Normal Sinus Rhythm, Atrial Fibrillation (AFib), Bradycardia, and Tachycardia.
+
+##### Positive Comments
+
+| Voice of the Customer | Restated Customer Need |
+| --------------------- | --------------------- |
+| "I've been in the clinical medical device industry for 40 years- this is a great product, that works well, and delivers clinically-valid results to your doctor; it is inexpensive and well made. No reason not to have one if you are dealing with any and all cardiac issues." | 1. Can measure clinically-valid results (explicit) |
+| | 2. High manufacturing quality (explicit) |
+| "I picked this up after the EKG feature on my Apple Watch stopped working, and I’m really glad I did. It gave me readings I could share with my cardiologist, which ended up helping him prescribe the right medication for my condition. That alone made it worth it." | 1. Useful for diagnosing medical conditions (explicit) |
+| "I did a few test runs with this unit and shared them with a paramedic and critical care nurse. Both said the quality looked good and agreed with the device's assessment (normal rhythm)." | 1. Results can be externally validated |
+
+##### Negative Comments
+
+| Voice of the Customer | Restated Customer Need |
+| --------------------- | --------------------- |
+| "The biggest issue I have is their app constatly berates you to upgrade and buy the subscription service. Its almost difficult to use the app because the in-app advertisements and misleading pages that keep pushing the service on you even after you've told it "no". I really wish they would fix that. Its very frustrating and I almost returned the unit because of this, vut ultimately decided to keep it."  | 1. Product provides all features after initial purchase (explicit) |
+| "It arrived in a box within the box a sealed package, first thing I noticed when unpacking was scratches on the back electrode. But it seems to work fine. Quality control could be better." | 1. Product is packaged with care (explicit) |
+| "I've found it a bit finicky when it comes to using the ankle or knee to record an EKG. I've watched videos and read instructions in the app multiple times, thinking I must be doing something wrong. It takes a little while for me to get it working and sense my ankle/knee. This has made it extra hard for me to record said skipping heartbeat." | 1. Product works without much effort (explicit) |
 
 ## Organized Need Statements
 
