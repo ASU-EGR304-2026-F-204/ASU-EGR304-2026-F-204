@@ -8,13 +8,13 @@
 
  **Keywords:** "Heart rate monitor"
 
- **Search Results Link:** [https://www.bing.com/shop/productdetails?goid=360199736964&entryPoint=genresultspage&q=heart+rate+monitor&FORM=GRPPDP][1]
+ **Search Results Link:** [https://www.bing.com/shop/productdetails?goid=360199736964&entryPoint=genresultspage&q=heart+rate+monitor&FORM=GRPPDP]
 
 ### Selected Products
 
-#### 1. [GEOID HS500 Heart Rate Monitor][1]
+#### 1. [GEOID HS500 Heart Rate Monitor]
 
-![ HS500 Heart Rate Monitor ][2](./image/competitors/GEOID_heart_monitor.png)
+![ HS500 Heart Rate Monitor ](image/competitors/GEOID_heart_monitor.png)
 
 * Price: $22.99
 * Vendor: Amazon
@@ -46,7 +46,7 @@
 
 ### Selected Products
 
-#### 1. [Google Fitbit Charge 6][4]
+#### 1. [Google Fitbit Charge 6](https://store.google.com/us/product/fitbit_charge_6?hl=en-US&utm_source=fitbit_redirect&utm_medium=google_ooo&utm_campaign=category&pli=1)
 
 ![ Google Fitbit Charge 6 ](https://lh3.googleusercontent.com/2dMRFGuDuPtq9PAAkzWIwPoRLVXzg820LTbIO1PQqq-1jfxHsePbMpyM4RLBzJpHk8tDwzhEauuOEOh_1vhPbsc4Fmd4F5xUuPw=s3000-w3000-e365-rw-v0)
 
@@ -59,11 +59,9 @@
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | "The battery life is amazing on this Fitbit Charge 6 with coral strap."                                                                                               | 1.  Reliable and cost efficient (explicit)                                          |
-|                                                                                              "I upgraded from the Charge 5
- What I like about the Charge 6:
-- Great price"                                                                                          | 2. Low price for quality ( explicit) |
-| "Works great with the app. The connection is swift and easy and the things it tracks is supurb"                                                                                                             | 1.  Very easy to connect with app (explicit)                                        |
-| "I have had a couple of different types of Fitbit trackers over the last several years. This one has been the best one yet because it is very comfortable to wear even while sleeping."                                                                                                       | 1.  Comfortable to use during the night (explicit)                               |
+| "I upgraded from the Charge. What I like about the Charge 6: - Great price"   | 2. Low price for quality (explicit) |
+| "Works great with the app. The connection is swift and easy and the things it tracks is supurb"        | 1.  Very easy to connect with app (explicit)                                        |
+| "I have had a couple of different types of Fitbit trackers over the last several years. This one has been the best one yet because it is very comfortable to wear even while sleeping."              | 1.  Comfortable to use during the night (explicit)                               |
 
 ##### Negative Comments
 
@@ -76,24 +74,15 @@
 
 ### Search #3
 
- **Keywords:** ""
-
- **Search Results Link:** [][5]
-
-
-### Selected Products
-
-### Search #3
-
 **Keywords:** "Simple Heart Rate Monitor for Exercise"
 
 **Search Results Link:** [https://www.google.com/search?sca_esv=d4faa8f985ca3215&sxsrf=APpeQnsPfMQ1vcLKBBAdRfw5TRnmJGpG4w:1789446046740&q=simple+heart+rate+monitor+for+exercise&source=lnms&fbs=ABfTbFWX8Can4Rb7JjuFvBw79YrXQMyJMofRft37fxW-VQ0iJcb-TVtMT2eZIreEjxT1y-wf13Eos8r81gP3ULB-yp1wUdlcaNlA5IKel27kAstk9ijmdfJ3Ry0ifpLA4FTuP4o2kYuyi5-0GT3YTspRAvPWw9o2Jtwvia2g4YHUDQ1OlQfvjmA1WykvnkZBISRD9WMQKC2Pl2KUFtQ-MUOwzc33agYgp9duxjhnWVouxAOrt57L6bM&sa=X&ved=2ahUKEwjsjdf_3e-WAxWOmmoFHWuQKKkQ0pQJegQIDhAB&biw=1760&bih=901&dpr=1](https://www.google.com/search?sca_esv=d4faa8f985ca3215&sxsrf=APpeQnsPfMQ1vcLKBBAdRfw5TRnmJGpG4w:1789446046740&q=simple+heart+rate+monitor+for+exercise&source=lnms&fbs=ABfTbFWX8Can4Rb7JjuFvBw79YrXQMyJMofRft37fxW-VQ0iJcb-TVtMT2eZIreEjxT1y-wf13Eos8r81gP3ULB-yp1wUdlcaNlA5IKel27kAstk9ijmdfJ3Ry0ifpLA4FTuP4o2kYuyi5-0GT3YTspRAvPWw9o2Jtwvia2g4YHUDQ1OlQfvjmA1WykvnkZBISRD9WMQKC2Pl2KUFtQ-MUOwzc33agYgp9duxjhnWVouxAOrt57L6bM&sa=X&ved=2ahUKEwjsjdf_3e-WAxWOmmoFHWuQKKkQ0pQJegQIDhAB&biw=1760&bih=901&dpr=1)
 
 ### Selected Products
 
-#### 1. [Senior Fitness Tracker Watch - Heart Rate Blood Pressure LED Band](https://www.braydenandlane.com/products/senior-fitness-tracker-watch-heart-rate-blood-pressure-led-band?currency=USD&country=US&variant=58608487301494&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=5d17fd197611&gad_source=1&gad_campaignid=23452101265&gbraid=0AAAABChJ29THzVDJDSV4Wx7jDSAiJPZEy&gclid=CjwKCAjwtp7VBhBjEiwAJfpV-_oDOQBLYfd7gZvmuJt0X2MLPEsApwok2_kbwT8sZd0nCLxG-ezbYxoCDBAQAvD_BwE) < (link to the product)
+#### 1. [Senior Fitness Tracker Watch - Heart Rate Blood Pressure LED Band](https://www.braydenandlane.com/products/senior-fitness-tracker-watch-heart-rate-blood-pressure-led-band?currency=USD&country=US&variant=58608487301494&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=5d17fd197611&gad_source=1&gad_campaignid=23452101265&gbraid=0AAAABChJ29THzVDJDSV4Wx7jDSAiJPZEy&gclid=CjwKCAjwtp7VBhBjEiwAJfpV-_oDOQBLYfd7gZvmuJt0X2MLPEsApwok2_kbwT8sZd0nCLxG-ezbYxoCDBAQAvD_BwE)
 
-![Senior Fitness Tracker Watch - Heart Rate Blood Pressure LED Band](https://github.com/ASU-EGR304-2026-F-204/ASU-EGR304-2026-F-204/blob/main/docs/image/Screenshot%202026-09-14%20221558.png)
+![Senior Fitness Tracker Watch - Heart Rate Blood Pressure LED Band](image/competitors/Senior_fitness_tracker.png)
 
 * Price: $59.99
 
@@ -137,10 +126,3 @@
 2. The device is ...
 3. The device can ...
 4. The device is...
-
-# References
-
-[1]: https://www.bing.com/shop/productdetails?goid=360199736964&entryPoint=genresultspage&q=heart+rate+monitor&FORM=GRPPDP
-[2]: https://www.amazon.com/GEOID-Monitor-Protocol-Bluetooth-Compatible/dp/B09SKZBZF8/ref=asc_df_B09SKZBZF8?tag=bingshoppinga-20&linkCode=df0&hvadid=80127120445046&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=77723&hvtargid=pla-4583726598784020&psc=1&hvocijid=8865271711032705098-B09SKZBZF8-&hvexpln=0
-[3]: https://www.bing.com/search?pglt=299&q=fittness+watch&cvid=d9023c90190946349ddc39039830be9d&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEAyBggJEAAYQNIBCDc0ODdqMGo3qAIAsAIA&FORM=ANNTA1&PC=SCOODB
-[4]: https://store.google.com/us/product/fitbit_charge_6?hl=en-US&utm_source=fitbit_redirect&utm_medium=google_ooo&utm_campaign=category&pli=1
