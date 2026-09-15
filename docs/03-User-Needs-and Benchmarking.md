@@ -178,6 +178,7 @@ title: User Needs and Benchmarking
 ### Grouped with categories
 
 **Accuracy & Core Functionality**
+
 * Accurate readings
 * Accurate calorie burn tracking
 * Works as Intended
@@ -186,28 +187,33 @@ title: User Needs and Benchmarking
 * Results can be externally validated
 
 **Comfort & Wearability**
+
 * Comfortable
 * Comfortable to use indoor and outdoor
 * Comfortable to use during the night
 * Sensitive Skin Friendly
 
 **Usability & Interface**
+
 * Clear Interface
 * Easy to Navigate
 * Product works without much effort
 
 **Connectivity & Ecosystem**
+
 * Very easy to connect with app
 * Able to export sensor data
 * Product provides all features after initial purchase
 
 **Value & Price**
+
 * Reliable and cost efficient
 * Low price for quality
 * Price efficient
 * Functionality justifies price
 
 **Durability & Hardware**
+
 * Reinforced parts
 * Long-lasting
 * Good Battery Life
