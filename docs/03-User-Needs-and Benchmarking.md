@@ -149,13 +149,79 @@ title: User Needs and Benchmarking
 
 ### First Placement
 
+* Reliable and cost efficient 
+* Low price for quality 
+* Very easy to connect with app 
+* Comfortable to use indoor and outdoor 
+* Accurate readings 
+* Price efficient 
+* Comfortable 
+* Reinforced parts 
+* Long-lasting 
+* Comfortable to use during the night 
+* Accurate calorie burn tracking 
+* Clear Interface 
+* Easy to Navigate 
+* Good Battery Life 
+* Works as Intended 
+* Uncomfortable (Restated as: Sensitive Skin Friendly)
+* Expensive (Restated as: Functionality justifies price)
+* Able to export sensor data 
+* Can measure clinically-valid results 
+* High manufacturing quality 
+* Useful for diagnosing medical conditions 
+* Results can be externally validated 
+* Product provides all features after initial purchase 
+* Product is packaged with care 
+* Product works without much effort 
+
 ### Grouped with categories
+
+**Accuracy & Core Functionality**
+* Accurate readings
+* Accurate calorie burn tracking
+* Works as Intended
+* Can measure clinically-valid results
+* Useful for diagnosing medical conditions
+* Results can be externally validated
+
+**Comfort & Wearability**
+* Comfortable
+* Comfortable to use indoor and outdoor
+* Comfortable to use during the night
+* Sensitive Skin Friendly
+
+**Usability & Interface**
+* Clear Interface
+* Easy to Navigate
+* Product works without much effort
+
+**Connectivity & Ecosystem**
+* Very easy to connect with app
+* Able to export sensor data
+* Product provides all features after initial purchase
+
+**Value & Price**
+* Reliable and cost efficient
+* Low price for quality
+* Price efficient
+* Functionality justifies price
+
+**Durability & Hardware**
+* Reinforced parts
+* Long-lasting
+* Good Battery Life
+* High manufacturing quality
+* Product is packaged with care
 
 ### Ranked
 
 ## Compiled list of user Needs
 
-1. The device will...
-2. The device is ...
-3. The device can ...
-4. The device is...
+1. **Accurate and Clinically-Valid Readings:** The device must provide accurate, reliable data (heart rate, EKG, calories) that can be trusted for health monitoring and external medical validation.
+2. **Comfortable and Skin-Friendly Wearability:** The materials must be comfortable for continuous, all-day use—including during rigorous indoor/outdoor exercise and overnight sleep—without irritating sensitive skin.
+3. **Seamless App Connectivity and Data Export:** The monitor must pair quickly and reliably with smartphones, gym equipment, and fitness apps, allowing users to easily access and export their sensor data.
+4. **Transparent, High-Value Pricing:** The product must offer strong build quality and reliable functionality at a price point that feels justified, without paywalling core features behind unexpected post-purchase subscriptions.
+5. **Ease of Use and Clear Navigation:** The interface (app or device screen) must be straightforward, visually clear, and work effortlessly without requiring a steep learning curve or complicated setup.
+6. **Durability and High Manufacturing Quality:** The hardware must feature reinforced parts, be built to withstand regular movement and sweat, and arrive carefully packaged.
+7. **Good Battery Life:** The device must maintain a charge long enough to support uninterrupted activity tracking, sleep monitoring, and daily use without constant recharging.
