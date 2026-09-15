@@ -1,6 +1,6 @@
 ---
-
-## title: User Needs and Benchmarking
+title: User Needs and Benchmarking
+---
 
 ## Voice of the Customer Benchmarking Example
 
@@ -8,11 +8,11 @@
 
  **Keywords:** "Heart rate monitor"
 
- **Search Results Link:** [https://www.bing.com/shop/productdetails?goid=360199736964&entryPoint=genresultspage&q=heart+rate+monitor&FORM=GRPPDP]
+ **Search Results Link:** <https://www.bing.com/shop/productdetails?goid=360199736964&entryPoint=genresultspage&q=heart+rate+monitor&FORM=GRPPDP>
 
 ### Selected Products
 
-#### 1. [GEOID HS500 Heart Rate Monitor]
+#### 1. [GEOID HS500 Heart Rate Monitor](https://www.amazon.com/GEOID-Monitor-Protocol-Bluetooth-Compatible/dp/B09SKZBZF8/ref=asc_df_B09SKZBZF8?tag=bingshoppinga-20&linkCode=df0&hvadid=80127120445046&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=77723&hvtargid=pla-4583726598784020&psc=1&hvocijid=8865271711032705098-B09SKZBZF8-&hvexpln=0)
 
 ![ HS500 Heart Rate Monitor ](image/competitors/GEOID_heart_monitor.png)
 
@@ -22,7 +22,7 @@
 
 ##### Positive Comments
 
-| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                             | Restated Customer Need                              |
+| Voice of the Customer         | Restated Customer Need                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | "Simple but reliable. This inexpensive heart rate monitor matches the reading of units 10x the price, so I can say it is accurate. Connecting it up with my devices, my phone and the gym was really easy. Now I get my data synchronized with my apps (via Bluetooth) and the gym system (via ANT+). It is also pretty rugged, so you don't have to worry about hitting it while moving the dumbbells or plates" | 1. Reliable and cost efficient (explicit)           |
 |                                                                                                                                                                                                                                                                                                                                                                                                                   | 2. low price for quality ( explicit)                |
@@ -36,13 +36,14 @@
 | "Very disappointed with this heart rate monitor. The readings are unreliable, the device is inconsistent, and I wouldn’t trust it for anything important. For a heart rate monitor, accuracy should be the bare minimum. Definitely not worth the money."                                                                                                                                                              | 1. accurate readings. (explicit) |
 |                                                                                                                                                                                                                                                                                                                                                                                                                         | 2. Price efficient. (latent)     |
 | "Cheap price and nice small design. However on my first cycling ride using the same route, the sensor was not consistent and wildly inaccurate. Probably got a bad batch, seems to off by 10 BPM on the low end. Seeing random +10 and -10 BPM jumps in milliseconds. Tried repositioning a bunch of different times around my chest during the rides and nothing worked. Even popped it off the chest strap briefly. " | 1. comfortable (explicit)        |
-|                                                                                                                                                                                                                                                                                                                                                                                                                         | 2. Reinforced parts (latent)     |
+| | 2. Reinforced parts (latent)     |
+| "stopped working after one week" | 1. Long-lasting |
 
 ### Search #2
 
  **Keywords:** "fitness watch"
 
- **Search Results Link:** [https://www.bing.com/search?pglt=299&q=fittness+watch&cvid=d9023c90190946349ddc39039830be9d&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEAyBggJEAAYQNIBCDc0ODdqMGo3qAIAsAIA&FORM=ANNTA1&PC=SCOODB][3]
+ **Search Results Link:** <https://www.bing.com/search?pglt=299&q=fittness+watch&cvid=d9023c90190946349ddc39039830be9d&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEAyBggJEAAYQNIBCDc0ODdqMGo3qAIAsAIA&FORM=ANNTA1&PC=SCOODB>
 
 ### Selected Products
 
@@ -74,9 +75,9 @@
 
 ### Search #3
 
-**Keywords:** "Simple Heart Rate Monitor for Exercise"
+ **Keywords:** "Simple Heart Rate Monitor for Exercise"
 
-**Search Results Link:** [https://www.google.com/search?sca_esv=d4faa8f985ca3215&sxsrf=APpeQnsPfMQ1vcLKBBAdRfw5TRnmJGpG4w:1789446046740&q=simple+heart+rate+monitor+for+exercise&source=lnms&fbs=ABfTbFWX8Can4Rb7JjuFvBw79YrXQMyJMofRft37fxW-VQ0iJcb-TVtMT2eZIreEjxT1y-wf13Eos8r81gP3ULB-yp1wUdlcaNlA5IKel27kAstk9ijmdfJ3Ry0ifpLA4FTuP4o2kYuyi5-0GT3YTspRAvPWw9o2Jtwvia2g4YHUDQ1OlQfvjmA1WykvnkZBISRD9WMQKC2Pl2KUFtQ-MUOwzc33agYgp9duxjhnWVouxAOrt57L6bM&sa=X&ved=2ahUKEwjsjdf_3e-WAxWOmmoFHWuQKKkQ0pQJegQIDhAB&biw=1760&bih=901&dpr=1](https://www.google.com/search?sca_esv=d4faa8f985ca3215&sxsrf=APpeQnsPfMQ1vcLKBBAdRfw5TRnmJGpG4w:1789446046740&q=simple+heart+rate+monitor+for+exercise&source=lnms&fbs=ABfTbFWX8Can4Rb7JjuFvBw79YrXQMyJMofRft37fxW-VQ0iJcb-TVtMT2eZIreEjxT1y-wf13Eos8r81gP3ULB-yp1wUdlcaNlA5IKel27kAstk9ijmdfJ3Ry0ifpLA4FTuP4o2kYuyi5-0GT3YTspRAvPWw9o2Jtwvia2g4YHUDQ1OlQfvjmA1WykvnkZBISRD9WMQKC2Pl2KUFtQ-MUOwzc33agYgp9duxjhnWVouxAOrt57L6bM&sa=X&ved=2ahUKEwjsjdf_3e-WAxWOmmoFHWuQKKkQ0pQJegQIDhAB&biw=1760&bih=901&dpr=1)
+ **Search Results Link:** <https://www.google.com/search?sca_esv=d4faa8f985ca3215&sxsrf=APpeQnsPfMQ1vcLKBBAdRfw5TRnmJGpG4w:1789446046740&q=simple+heart+rate+monitor+for+exercise&source=lnms&fbs=ABfTbFWX8Can4Rb7JjuFvBw79YrXQMyJMofRft37fxW-VQ0iJcb-TVtMT2eZIreEjxT1y-wf13Eos8r81gP3ULB-yp1wUdlcaNlA5IKel27kAstk9ijmdfJ3Ry0ifpLA4FTuP4o2kYuyi5-0GT3YTspRAvPWw9o2Jtwvia2g4YHUDQ1OlQfvjmA1WykvnkZBISRD9WMQKC2Pl2KUFtQ-MUOwzc33agYgp9duxjhnWVouxAOrt57L6bM&sa=X&ved=2ahUKEwjsjdf_3e-WAxWOmmoFHWuQKKkQ0pQJegQIDhAB&biw=1760&bih=901&dpr=1>
 
 ### Selected Products
 
@@ -105,8 +106,9 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | "The silicone band that is very rough on sensitive skin."                                                              | 1. Uncomfortable (explicit)                       |
 |                                                                                                                        | 2. Sensitive Skin Friendly (latent) |
-| "Too expensive for what it actually"                                                                                   | 1. Expensive (explicit) |
+| "Too expensive for what it actually is"                                                                                   | 1. Expensive (explicit) |
 |                                                                                                                        | 2. Functionality does not justify price (latent) |
+| "No smartphone sync features" | 1. Able to export sensor data |
 
 #### 4. Next Product goes here
 
