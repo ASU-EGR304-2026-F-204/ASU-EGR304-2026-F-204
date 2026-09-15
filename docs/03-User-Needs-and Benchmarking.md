@@ -155,7 +155,7 @@ title: User Needs and Benchmarking
 
 #### 1. [Rechargeable Oxygen Meter Finger Pulse Oximeter, Bluetooth Fingertip Blood Oxygen Saturation Monitor with Pulse Rate, Batteries and Lanyard Included, Free APP](https://www.amazon.com/Vibeat-Rechargeable-Bluetooth-Fingertip-Saturation/dp/B0B8SBK8LR/ref=sr_1_1_sspa?adgrpid=189931014641&dib=eyJ2IjoiMSJ9.zlIbpzdifYvr3vD4STg7Ry1wfBUIavVKPFfwnksJ14ieFqehugQUl4AhMomtO-OzPD5P-oqjmNtpgIjBCjfqvVOJt6QvZNK8XN6hL-D8wiDoJqqDUYVG0qaTdxirpxs6waaTAdQCO_Sj3qtFkuPT9IjwA8j9Tf3G5w3fZk0dOZUKNbaASEu0iKkMHmoKJZDXOK9QsmzZ-eIYQgDu4TAuG5It9MmnBKwcvwtKammdVzD401X41Qnn1nSMSoh37CsrZDpxAhKlc3ae9_0CN0kG9nrJjLOYCWp1g5wNXkiq8Wo.4VghYK1OujsIoxFHaTSAD_VqYXKY0TmLnDbMOo2Sdl4&dib_tag=se&hvadid=779676761516&hvdev=c&hvexpln=0&hvlocphy=9030039&hvnetw=g&hvocijid=6854201085988538605--&hvqmt=e&hvrand=6854201085988538605&hvtargid=kwd-2392895990550&hydadcr=6637_13363801_2331109&keywords=vibeat+pulse+oximeter+fingertip&mcid=cb2759023e85338bbb335c900b70bbca&qid=1789455032&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1#averageCustomerReviewsAnchor)
 
-![Rechargeable Oxygen Meter Finger Pulse Oximeter, Bluetooth Fingertip Blood Oxygen Saturation Monitor with Pulse Rate, Batteries and Lanyard Included, Free APP](image/competitors/Senior_fitness_tracker.png)
+![Rechargeable Oxygen Meter Finger Pulse Oximeter, Bluetooth Fingertip Blood Oxygen Saturation Monitor with Pulse Rate, Batteries and Lanyard Included, Free APP](https://github.com/ASU-EGR304-2026-F-204/ASU-EGR304-2026-F-204/blob/main/docs/image/competitors/Screenshot%202026-09-14%20234649.png?raw=true)
 
 * Price: $39.99
 
