@@ -42,6 +42,47 @@ title: User Needs and Benchmarking
 
 #### 2. Next Product goes here
 
+### Search #1
+
+**Keywords:** "Heart rate monitor"
+
+**Search Results Link:** [https://www.bing.com/shop/productdetails?goid=360199736964&entryPoint=genresultspage&q=heart+rate+monitor&FORM=GRPPDP](https://www.bing.com/shop/productdetails?goid=360199736964&entryPoint=genresultspage&q=heart+rate+monitor&FORM=GRPPDP)
+
+### Selected Products
+
+#### 1. [GEOID HS500 Heart Rate Monitor](https://www.amazon.com/GEOID-Monitor-Protocol-Bluetooth-Compatible/dp/B09SKZBZF8/ref=asc_df_B09SKZBZF8?tag=bingshoppinga-20&linkCode=df0&hvadid=80127120445046&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=77723&hvtargid=pla-4583726598784020&psc=1&hvocijid=8865271711032705098-B09SKZBZF8-&hvexpln=0) < (link to the product)
+
+![](image1.png)
+
+**(include a picture)**
+
+* Price: $22.99
+
+* Vendor: Amazon
+
+* Description: The GEOID HS500 is a chest-worn heart rate sensor designed to provide reliable heart rate data during workouts. Its updated design helps reduce interference from motion and sweat, while ANT+ and Bluetooth allow it to connect with devices and apps such as Wahoo, Zwift, Strava, and bike computers. It is lightweight, water-resistant with an IP67 rating, uses a replaceable CR2032 battery rated for up to 800 hours, and includes a one-year limited warranty.
+
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Simple but reliable. This inexpensive heart rate monitor matches the reading of units 10x the price, so I can say it is accurate. Connecting it up with my devices, my phone and the gym was really easy. Now I get my data synchronized with my apps (via Bluetooth) and the gym system (via ANT+). It is also pretty rugged, so you don't have to worry about hitting it while moving the dumbbells or plates"                                                                                                | 1.  Reliable and cost efficient (explicit)                                          |
+|                                                                                                                                                                                        | 2. low price for quality ( explicit) |
+| "Works great for zwift, zwift recognizes this heart rate monitor quickly."                                                                                                             | 1.  very easy to connect with app (explicit)                                        |
+| "Very happy with this heart rate monitor. Pairing was quick and stable with my cycling computer, and the readings have been accurate during both indoor and outdoor rides. The chest strap is comfortable and doesn’t move around while riding"                                                                                                       | 1.  comfortable to use indoor and outdoor (explicit)                               |
+
+##### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| "Very disappointed with this heart rate monitor. The readings are unreliable, the device is inconsistent, and I wouldn’t trust it for anything important. For a heart rate monitor, accuracy should be the bare minimum. Definitely not worth the money." | 1.  accurate readings. (explicit)                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  Price efficient. (latent) |
+| "Cheap price and nice small design. However on my first cycling ride using the same route, the sensor was not consistent and wildly inaccurate. Probably got a bad batch, seems to off by 10 BPM on the low end. Seeing random +10 and -10 BPM jumps in milliseconds. Tried repositioning a bunch of different times around my chest during the rides and nothing worked. Even popped it off the chest strap briefly. "  | 1. comfortable (explicit) |
+|
+                                                                    | 2. Reinforced parts (latent)                           |
+
+#### 2. Next Product goes here
+
 ### Search #2
 
 (you don't have to perform multiple searches, but sometimes different keywords reveal slightly different results)
