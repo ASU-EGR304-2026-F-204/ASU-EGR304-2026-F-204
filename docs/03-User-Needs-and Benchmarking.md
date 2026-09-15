@@ -14,9 +14,7 @@ title: User Needs and Benchmarking
 
 #### 1. [Tinkering Labs Robotics Engineering Kit](https://www.amazon.com/Tinkering-Labs-Electric-Engineering-Experiments/dp/B01M5GJFQ1/) < (link to the product)
 
-![](image1.png)
-
-**(include a picture)**
+![ HS500 Heart Rate Monitor](https://github.com/ASU-EGR304-2026-F-204/ASU-EGR304-2026-F-204/blob/main/Screenshot%202026-09-14%20192702.png?raw=true)
 
 * Price: $65
 
