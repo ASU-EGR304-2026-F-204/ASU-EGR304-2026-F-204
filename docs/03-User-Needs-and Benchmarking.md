@@ -179,7 +179,8 @@ title: User Needs and Benchmarking
 |                                                                                                                        | 2. Readings dont have Proper Limits (latent) |
 | "Won't hold a charge after 3 months of use. I cannot and will not recommend this product to my medical circle. Look elsewhere."                                                                        | 1. Poor Battery Life (latent) |
 |                                                                                                                        
-| "This product is giving me trouble pairing it to phone, wrote to to support and they sent me a way to pair it but still it does not detect any device to be paired"                                | 1. Poor App Pairing (latent) |                                                                                                                                                                    |                                                                                                                                                                                                    | 2. Poor Connectivity (latent)|
+| "This product is giving me trouble pairing it to phone, wrote to to support and they sent me a way to pair it but still it does not detect any device to be paired"                                | 1. Poor App Pairing (latent)|
+|                                                                                                                                                                                                   | 2. Device Support is Subpar (latent) |
 ## Organized Need Statements
 
 ### First Placement
