@@ -84,12 +84,42 @@ title: User Needs and Benchmarking
 #### 2. Next Product goes here
 
 ### Search #2
+**Keywords:** "Heart rate monitor"
 
-(you don't have to perform multiple searches, but sometimes different keywords reveal slightly different results)
+**Search Results Link:** [https://www.bing.com/search?pglt=299&q=fittness+watch&cvid=d9023c90190946349ddc39039830be9d&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEAyBggJEAAYQNIBCDc0ODdqMGo3qAIAsAIA&FORM=ANNTA1&PC=SCOODB](https://www.bing.com/search?pglt=299&q=fittness+watch&cvid=d9023c90190946349ddc39039830be9d&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEAyBggJEAAYQNIBCDc0ODdqMGo3qAIAsAIA&FORM=ANNTA1&PC=SCOODB)
 
-**Keywords:** <list an alternative search you did, if applicable>
+### Selected Products
 
-**Search Results Link:** <add your link here>
+#### 1. [GoogleFitbit Charge 6](https://store.google.com/us/product/fitbit_charge_6?hl=en-US&utm_source=fitbit_redirect&utm_medium=google_ooo&utm_campaign=category&pli=1) < (link to the product)
+
+![ HS500 Heart Rate Monitor ](https://github.com/ASU-EGR304-2026-F-204/ASU-EGR304-2026-F-204/blob/main/Screenshot%202026-09-14%20192702.png?raw=true)
+
+* Price: $119.95
+
+* Vendor: Google Store
+
+* Description: The Fitbit Charge 6 is a premium fitness tracker with advanced health monitoring, built-in GPS, Google integration, and improved heart rate accuracy.
+
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "The battery life is amazing on this Fitbit Charge 6 with coral strap."                                                                                               | 1.  Reliable and cost efficient (explicit)                                          |
+|                                                                                              "I upgraded from the Charge 5
+ What I like about the Charge 6:
+- Great price"                                                                                          | 2. Low price for quality ( explicit) |
+| "Works great with the app. The connection is swift and easy and the things it tracks is supurb"                                                                                                             | 1.  Very easy to connect with app (explicit)                                        |
+| "I have had a couple of different types of Fitbit trackers over the last several years. This one has been the best one yet because it is very comfortable to wear even while sleeping."                                                                                                       | 1.  Comfortable to use during the night (explicit)                               |
+
+##### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| "The heart rate is slow and laggy" | 1.  accurate readings. (explicit)                       |
+|
+| "The bands always cling to my wrists to tight to where the skin rubs raw or to lose and it slides around my arm like a braclet "  | 1. comfortable (explicit) |
+|
+                                                                    | 2. Reinforced parts (latent)                           |
 
 ### Selected Products
 
