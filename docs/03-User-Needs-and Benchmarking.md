@@ -158,7 +158,7 @@ title: User Needs and Benchmarking
 | "The silicone band that is very rough on sensitive skin."                                                              | 1. Uncomfortable (explicit)                       |
 |                                                                                                                        | 2. Sensitive Skin Friendly (latent) |
 | "Too expensive for what it actually"                                                                                   | 1. Expensive (explicit) |
-| 2. Functionality does not justify price (latent) |
+|                                                                                                                        | 2. Functionality does not justify price (latent) |
 #### 4. Next Product goes here
 
 #### 5. Next Product goes here
