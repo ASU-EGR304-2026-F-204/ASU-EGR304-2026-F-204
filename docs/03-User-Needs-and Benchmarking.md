@@ -123,7 +123,6 @@ title: User Needs and Benchmarking
 
 ### Selected Products
 
-#### 3. Next Product goes here
 ### Search #3
 
 **Keywords:** "Simple Heart Rate Monitor for Exercise"
@@ -159,6 +158,7 @@ title: User Needs and Benchmarking
 |                                                                                                                        | 2. Sensitive Skin Friendly (latent) |
 | "Too expensive for what it actually"                                                                                   | 1. Expensive (explicit) |
 |                                                                                                                        | 2. Functionality does not justify price (latent) |
+
 #### 4. Next Product goes here
 
 #### 5. Next Product goes here
