@@ -7,11 +7,11 @@ This project aims to investigate and develop a smart heart-rate monitoring devic
 
 ## Stakeholders
 
-* **Target group** High-income upper-class professionals between the age of 20 and 45. Their personalities are determined and ambitious. The main benefits sought are recreation and self-expression.
-* **Target purchaser** Target group profile with special attention to Full Nest I and Full Nest II mothers.
-* **Customer service** Prefers easy-to-repair, recyclable product, and easy-to-fix complaints to fit with Apple’s intuitive user experience.
-* **Marketing & Sales division** Looks for unique selling points around the Apple Aspirer-Explorer lifestyle and user experience.
-* **Retailers** Prefer products that can withstand a wide range of storage conditions including variations in temperature, vibration, humidity, and atmospheric pressure, and have a strong and compact, theft, and vandalism-proof packaging.
+* **Target group** Adults aged 18–40 who regularly engage in running, weightlifting, cycling, or general fitness. Their personalities tend to be goal‑oriented, health conscious, and data driven.
+* **Target purchaser** Individuals who value convenience and tech‑enabled wellness. Special attention to Single I, Full Nest I, and Full Nest II households, as well as parents balancing work, fitness, and family.
+* **Customer service** Fast troubleshooting and intuitive interfaces, easy to repair/replaceable straps and sensors, clear guidance through online support, and eco-friendly materials. 
+* **Marketing & Sales division** Looks for unique selling points around precision tracking with real time analytics. Lifestyle messaging around motivation, discipline, and personal growth. Partnerships with gyms, trainers, and fitness influencers. Visual branding with modern data empowered living. 
+* **Retailers** Withstand temperature changes, vibration, humidity, and long storage periods. Include clear product information for customer convenience. 
 
 ## Use Cases
 
@@ -49,8 +49,20 @@ The new product design will be based on that of the AirPods with improvements ba
 ## Requirement Criteria Specifications
 
 * 1.1.1 - Regulate system power from 9 volts to 5 volts
+  - Uses a voltage regulation module capable of stepping down 9 V to 5 V with
+          minimal ripple (<50 mV).
+  - Includes thermal protection to prevent overheating during continuous operation.
+  - Efficiency target: ≥85% to support battery‑powered use cases.
+  - Must maintain ±5% output tolerance under varying load conditions.
+  
 * 1.1.2 - Provide over-amperage project to not exceed 1.5 amps.
-
+  - Integrates a current‑limiting circuit (resettable fuse, PTC, or dedicated
+          current‑limit IC).
+  - Trip threshold set at 1.5 A ± 0.1 A.
+  - Must respond within <10 ms to over‑current events to avoid component damage.
+  - Includes status indication (LED or digital flag) to alert the user of fault
+          conditions.
+  
 ## Open Questions
 
 * Can we design a battery system that lasts multiple days while still keeping the device lightweight and comfortable?
