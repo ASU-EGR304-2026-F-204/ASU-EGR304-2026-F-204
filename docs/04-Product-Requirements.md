@@ -53,5 +53,6 @@ The new product design will be based on that of the AirPods with improvements ba
 
 ## Open Questions
 
-* Can we move towards a recyclable and repairable product, for example, with ZIF connectors and glue-free assembly?
-* Can we improve on failing or self-igniting batteries?
+* Can we design a battery system that lasts multiple days while still keeping the device lightweight and comfortable?
+* Can we reduce adhesives and instead use clips, screws, or snap‑fit parts to simplify disassembly?
+* How can we make the device intuitive for people who don’t use smartphones or wearable tech?
