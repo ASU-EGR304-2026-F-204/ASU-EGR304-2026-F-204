@@ -827,11 +827,11 @@
 <p>This project aims to investigate and develop a smart heart-rate monitoring device that is affordable, comfortable, easy to use, and accessible to everyone. The goal is to create a product that provides accurate heart rate tracking while maintaining a simple and user friendly design. Making it suitable for everyday use across a wide range of users, including fitness enthusiasts, professionals, older adults, and individuals who simply want to monitor their health. The device will focus on improving comfort and fit so that it can be worn for extended periods without becoming distracting or uncomfortable. We aim to reduce unnecessary features and complexity while maintaining reliable heart rate monitoring and clear, easy to understand information. By prioritizing affordability, comfort, simplicity, and accurate tracking. Our product will be a directly rival to the Google Fitbit series and Apple Watches that would be to expensive to the everyday customers that require only the basic heart rate monitoring systems.  The target is to maintain global dominance in the heart monitoring market, drive up our sales to 230 million+ units sold with a 40% global market share in 2027 and expand the user base more towards the cheaper, down to earth, barebones devices.</p>
 <h2 id="stakeholders">Stakeholders</h2>
 <ul>
-<li><strong>Target group</strong> High-income upper-class professionals between the age of 20 and 45. Their personalities are determined and ambitious. The main benefits sought are recreation and self-expression.</li>
-<li><strong>Target purchaser</strong> Target group profile with special attention to Full Nest I and Full Nest II mothers.</li>
-<li><strong>Customer service</strong> Prefers easy-to-repair, recyclable product, and easy-to-fix complaints to fit with Apple’s intuitive user experience.</li>
-<li><strong>Marketing &amp; Sales division</strong> Looks for unique selling points around the Apple Aspirer-Explorer lifestyle and user experience.</li>
-<li><strong>Retailers</strong> Prefer products that can withstand a wide range of storage conditions including variations in temperature, vibration, humidity, and atmospheric pressure, and have a strong and compact, theft, and vandalism-proof packaging.</li>
+<li><strong>Target group</strong> Adults aged 18–40 who regularly engage in running, weightlifting, cycling, or general fitness. Their personalities tend to be goal‑oriented, health conscious, and data driven.</li>
+<li><strong>Target purchaser</strong> Individuals who value convenience and tech‑enabled wellness. Special attention to Single I, Full Nest I, and Full Nest II households, as well as parents balancing work, fitness, and family.</li>
+<li><strong>Customer service</strong> Fast troubleshooting and intuitive interfaces, easy to repair/replaceable straps and sensors, clear guidance through online support, and eco-friendly materials. </li>
+<li><strong>Marketing &amp; Sales division</strong> Looks for unique selling points around precision tracking with real time analytics. Lifestyle messaging around motivation, discipline, and personal growth. Partnerships with gyms, trainers, and fitness influencers. Visual branding with modern data empowered living. </li>
+<li><strong>Retailers</strong> Withstand temperature changes, vibration, humidity, and long storage periods. Include clear product information for customer convenience. </li>
 </ul>
 <h2 id="use-cases">Use Cases</h2>
 <h3 id="user-story-1-aiden">User Story #1: Aiden</h3>
@@ -863,7 +863,22 @@
 <h2 id="requirement-criteria-specifications">Requirement Criteria Specifications</h2>
 <ul>
 <li>1.1.1 - Regulate system power from 9 volts to 5 volts</li>
-<li>1.1.2 - Provide over-amperage project to not exceed 1.5 amps.</li>
+<li>Uses a voltage regulation module capable of stepping down 9 V to 5 V with
+          minimal ripple (&lt;50 mV).</li>
+<li>Includes thermal protection to prevent overheating during continuous operation.</li>
+<li>Efficiency target: ≥85% to support battery‑powered use cases.</li>
+<li>
+<p>Must maintain ±5% output tolerance under varying load conditions.</p>
+</li>
+<li>
+<p>1.1.2 - Provide over-amperage project to not exceed 1.5 amps.</p>
+</li>
+<li>Integrates a current‑limiting circuit (resettable fuse, PTC, or dedicated
+          current‑limit IC).</li>
+<li>Trip threshold set at 1.5 A ± 0.1 A.</li>
+<li>Must respond within &lt;10 ms to over‑current events to avoid component damage.</li>
+<li>Includes status indication (LED or digital flag) to alert the user of fault
+          conditions.</li>
 </ul>
 <h2 id="open-questions">Open Questions</h2>
 <ul>
