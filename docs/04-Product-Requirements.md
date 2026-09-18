@@ -15,15 +15,23 @@ This project aims to investigate and develop a smart heart-rate monitoring devic
 
 ## Use Cases
 
-### User Story #1: Jenna
+### User Story #1: Aiden
 
-Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow off some steam. The bar is often loud with people, but it is paramount that she can hold business conversations over the phone there. Then again, she does not want to miss out on the atmosphere and be able to hear the waiters as well. Her new Apple wireless earphones allow her to switch instantly between a mode where she can fully focus on the phone conversation and a mode where the phone call and environmental sound are seamlessly combined. They also allow her to rapidly adjust the volume on the earbuds themselves without having to take out her phone.
+Aiden is a 27‑year‑old guy who goes to the gym almost every morning before work. He doesn’t care about fancy smartwatch features or paying hundreds of dollars for something he’ll barely use. He just wants to know his heart rate while he’s working out.
 
-Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either.
+When he gets to the gym, he puts on our heart‑rate band. It’s super lightweight and doesn’t feel bulky like an Apple Watch. As soon as he starts jogging, the band shows his heart rate in big, simple numbers. No apps, no menus, no complicated setup. Just the info he needs.
 
-### User Story #2
+Aiden likes that the band is way cheaper than a Fitbit or Apple Watch but still does the one thing he actually needs: track his heart rate accurately.
 
-...
+### User Story #2: Maria
+
+Maria is a 68‑year‑old retiree who wants to keep an eye on her heart health. She doesn’t like complicated tech and definitely doesn’t want to spend a ton of money on a smartwatch she won’t use.
+
+Every morning she puts on our heart‑rate band before she starts her day. The strap is soft and comfortable, and she forgets she’s even wearing it. As she moves around the house, the band quietly tracks her heart rate and shows it in big, easy‑to‑read numbers.
+
+When she sits down to rest, she taps the band to check her current heart rate. If it’s higher than normal, the band gives her a gentle vibration. She likes that it doesn’t blast loud alarms or send confusing notifications. She also doesn’t need to connect it to a phone or deal with apps, which makes her feel more confident using it.
+
+When she goes on walks with her friends, the band helps her stay at a comfortable pace. She likes that it’s affordable and simple, and she often tells her doctor her heart rate to double check all her vitals are correct. 
 
 ## Aspects
 
