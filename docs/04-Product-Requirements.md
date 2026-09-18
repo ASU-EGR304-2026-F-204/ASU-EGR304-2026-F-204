@@ -49,18 +49,18 @@ The new product design will be based on that of the AirPods with improvements ba
 ## Requirement Criteria Specifications
 
 **1.1.1 - Regulate system power from 9 volts to 5 volts**
-* Uses a voltage regulation module capable of stepping down 9 V to 5 V with
+Uses a voltage regulation module capable of stepping down 9 V to 5 V with
           minimal ripple (<50 mV).
-* Includes thermal protection to prevent overheating during continuous operation.
-* Efficiency target: ≥85% to support battery‑powered use cases.
-* Must maintain ±5% output tolerance under varying load conditions.
+Includes thermal protection to prevent overheating during continuous operation.
+Efficiency target: ≥85% to support battery‑powered use cases.
+Must maintain ±5% output tolerance under varying load conditions.
   
 **1.1.2 - Provide over-amperage project to not exceed 1.5 amps**
-  - Integrates a current‑limiting circuit (resettable fuse, PTC, or dedicated
+Integrates a current‑limiting circuit (resettable fuse, PTC, or dedicated
           current‑limit IC).
-  - Trip threshold set at 1.5 A ± 0.1 A.
-  - Must respond within <10 ms to over‑current events to avoid component damage.
-  - Includes status indication (LED or digital flag) to alert the user of fault
+Trip threshold set at 1.5 A ± 0.1 A.
+Must respond within <10 ms to over‑current events to avoid component damage.
+Includes status indication (LED or digital flag) to alert the user of fault
           conditions.
   
 ## Open Questions
