@@ -35,16 +35,18 @@ When she goes on walks with her friends, the band helps her stay at a comfortabl
 
 ## Aspects
 
-The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
+The new product design will be based on that of the Google Fitbit Charge with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
 1. **Producer Design**
-   * 1.1 The product shall be visually easy to distinguish from existing AirPods as well as main competitors Sony WF-1000XM3, Jabra Elite, Amazon Echo Buds, Samsung Galaxy Buds, and Bose SoundSport Free, and Urbanista Stockholm. (P10)
-   * 1.1 The product shall be easy to recognize as an Apple product without needing a logo on its exterior. (P10)
-   * 1.2. The product shall avoid styling elements from our Powerbeats over-ear wireless headphones since those address a different market segment. (P8)
-  
+   * 1.1 The product shall be visually easy to distinguish from existing fitness wearables as well as main competitors Google Fitbit series, Apple Watches, Samsung Watches, Generic Medical Watches. (P10)
+   * 1.1 The product shall be easy to recognize as a watch without needing instructions. (P10)
+   * 1.2 The product shall be easily hidden/slim to blend in with everyday clothing (P7)
+
 1. **Functionality**
-      * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
-      * 2.2 The product shall offer a dual microphone in each earbud. (P10)
+      * 2.1 The product shall incorporate one or more optical or pulse sensing  sensors to detect the user and record data. (P10)
+      * 2.2 The product shall offer reliable readings and understandable biometrics. (P10)
+      * 2.3 The product shall be easily warn (P10)
+      * 2.3.1 and not irritate skin or impair movment. (P10)
 
 ## Requirement Criteria Specifications
 
