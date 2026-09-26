@@ -60,9 +60,9 @@ title: Design Ideation
 * **Retailers** Withstand temperature changes, vibration, humidity, and long storage periods. Include clear product information for customer convenience. 
 
 ## Step Four
-https://github.com/ASU-EGR304-2026-F-204/ASU-EGR304-2026-F-204/blob/main/docs/image/HRT%201.png
-https://github.com/ASU-EGR304-2026-F-204/ASU-EGR304-2026-F-204/blob/main/docs/image/HRT%202.png
-https://github.com/ASU-EGR304-2026-F-204/ASU-EGR304-2026-F-204/blob/main/docs/image/HRT%203.png
+![](<image/HRT 1.png>)
+![](<image/HRT 2.png>)
+![](<image/HRT 3.png>)
 ## Step Five 
 Our team used a brainstorming method called rapid ideation to generate as many ideas and concepts as possible within a short period of time. We began by writing down as many random words and ideas as we could on the whiteboards in the library within a five-minute period. The purpose of this initial stage was not to evaluate the quality of each idea, but to generate a large number of concepts for later evaluation. For example, we may have initially written a word such as “shoe,” which we eventually removed because it was not directly relevant to our project, while concepts such as “sweat” and “comfort” were retained because they were more applicable to our heart rate monitor design.
 
