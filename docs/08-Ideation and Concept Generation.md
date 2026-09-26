@@ -6,9 +6,14 @@ title: Ideation and Concept Generation
 | Requirement / need         | Feature                             |  Detail         |       
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | Accurate and Clinically-Valid Readings | hhhhhh     |  wwwwww           |
-|  Comfortable and Skin-Friendly Wearability    |  hhh                 |       hhh         |                                                                      | Seamless App Connectivity and Data Export                |                  |            |
-| "Works great for zwift, zwift recognizes this heart rate monitor quickly."                                                                                                                                                                                                                                                                                                                                        | 1. very easy to connect with app (explicit)         |
-| "Very happy with this heart rate monitor. Pairing was quick and stable with my cycling computer, and the readings have been accurate during both indoor and outdoor rides. The chest strap is comfortable and doesn’t move around while riding"                                                                                                                                                                  | 1. comfortable to use indoor and outdoor (explicit) |
+| Comfortable and Skin-Friendly Wearability    |  hhh                 |       hhh         |                                                                      
+| Seamless App Connectivity and Data Export                |                  |            |
+| Transparent, High-Value Pricing  | ...     |  ..... |
+| Ease of Use and Clear Navigation   | .... | .... |
+| Durability and High Manufacturing Quality  |      |       |
+| Good Battery Life    |     |      |
+| Regulate system power from 9 volts to 5 volts   |        |         |
+| Provide over-amperage project to not exceed 1.5 amps   |      |     |
 
 
 ## Step 3:
