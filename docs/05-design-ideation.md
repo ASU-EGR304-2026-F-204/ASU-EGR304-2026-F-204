@@ -2,60 +2,54 @@
 title: Design Ideation
 ---
 
-## Intro/overview
-
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
-
 ## Step Two: Generating Ideas
-| Requirement / need         | Feature                             |  Detail         |       
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| Accurate and Clinically-Valid Readings | PPG Optical Heart‑Rate Sensor  |  Measures blood‑volume changes using LED illumination and photodiode detection to generate reliable BPM signals     |
-| Accurate and Clinically-Valid Readings | Dual‑Wavelength LED System     |  Uses green and infrared LEDs to improve signal penetration and accuracy across varying skin tones        |
-| Accurate and Clinically-Valid Readings | Analog Front‑End Filtering     |  Removes noise and stabilizes the PPG waveform, ensuring cleaner input for BPM calculation        |
-| Accurate and Clinically-Valid Readings | High‑Resolution ADC Sampling    | Converts analog PPG signals into precise digital samples for improved heart‑rate extraction       |
-| Accurate and Clinically-Valid Readings | Motion Artifact Reduction Algorithm   | Filters out movement‑induced distortions to maintain accurate readings during daily activity        |
-| Comfortable and Skin-Friendly Wearability    |  Hypoallergenic Silicone Strap           |  Prevents skin irritation and supports extended daily wear for sensitive users        |
-| Comfortable and Skin-Friendly Wearability    |  Ergonomic Curved Sensor Housing         |  Maintains consistent skin contact, improving PPG signal quality and overall comfort         |
-| Comfortable and Skin-Friendly Wearability    |  Ventilated Strap Pattern                |  Enhances airflow to reduce sweat buildup during exercise or long‑term wear         |
-| Comfortable and Skin-Friendly Wearability    |  Lightweight Polymer Enclosure           |  Reduces wrist fatigue and improves overall wearability throughout the day         |
-| Comfortable and Skin-Friendly Wearability    |  Soft Backplate Cushioning               |  Provides gentle pressure against the skin while maintaining stable optical viewing         |
-| Seamless App Connectivity and Data Export                | Bluetooth Low Energy Module            |  Enables low‑power wireless communication for continuous heart‑rate syncing with mobile devices          |
-| Seamless App Connectivity and Data Export                | Automatic Pairing Mode                 |  Simplifies device setup by detecting and connecting to the app without manual configuration           |
-| Seamless App Connectivity and Data Export                | Real‑Time BPM Streaming                |  Sends live heart‑rate data to the app for workouts or health monitoring          |
-| Seamless App Connectivity and Data Export                | CSV/JSON Export Function               |  Allows users to download heart‑rate logs for medical review or personal analysis          |
-| Seamless App Connectivity and Data Export                | Firmware Updates Over BLE              |  Provides wireless firmware upgrades to improve performance and add new features          |
-| Transparent, High-Value Pricing  | Off‑the‑Shelf PPG Sensor     |  Uses widely available components to reduce cost while maintaining reliable performance |
-| Transparent, High-Value Pricing  | Simplified PCB Layout      |  Minimizes manufacturing complexity, lowering production cost and improving assembly reliability |
-| Transparent, High-Value Pricing  | Open‑Source Firmware Libraries     |  Reduces licensing fees and simplifies long‑term software maintenance |
-| Transparent, High-Value Pricing  | Modular Internal Design      |  Allows individual component replacement without requiring full device replacement |
-| Transparent, High-Value Pricing  | Efficient Component Sourcing     |  Uses common parts to maintain stable pricing and reduce supply chain delays |
-| Ease of Use and Clear Navigation   | Single Multi‑Function Button | Provides simple control for power, pairing, and measurement modes with minimal user confusion |
-| Ease of Use and Clear Navigation   | LED Status Indicator  | Displays battery, pairing, and measurement status using intuitive color signals |
-| Ease of Use and Clear Navigation   | Haptic Vibration Alerts  |  Confirms user actions and alerts abnormal heart‑rate events without requiring a screen |
-| Ease of Use and Clear Navigation   | Auto‑Start Measurement Mode  | Begins heart‑rate monitoring automatically when worn, reducing user steps |
-| Ease of Use and Clear Navigation   | Simple App Dashboard  | Presents BPM, trends, and alerts clearly for users with limited technical experience |
-| Durability and High Manufacturing Quality  |  |       |
-| Durability and High Manufacturing Quality  |      |       |
-| Durability and High Manufacturing Quality  |      |       |
-| Durability and High Manufacturing Quality  |      |       |
-| Durability and High Manufacturing Quality  |      |       |
-| Good Battery Life    |     |      |
-| Good Battery Life    |     |      |
-| Good Battery Life    |     |      |
-| Good Battery Life    |     |      |
-| Good Battery Life    |     |      |
-| Regulate system power from 9 volts to 5 volts   |        |         |
-| Regulate system power from 9 volts to 5 volts   |        |         |
-| Regulate system power from 9 volts to 5 volts   |        |         |
-| Regulate system power from 9 volts to 5 volts   |        |         |
-| Regulate system power from 9 volts to 5 volts   |        |         |
-| Provide over-amperage project to not exceed 1.5 amps   |      |     |
-| Provide over-amperage project to not exceed 1.5 amps   |      |     |
-| Provide over-amperage project to not exceed 1.5 amps   |      |     |
-| Provide over-amperage project to not exceed 1.5 amps   |      |     |
-| Provide over-amperage project to not exceed 1.5 amps   |      |     |
-
+| Requirement / need | Feature | Detail |
+| :--- | :--- | :--- |
+| Accurate and Clinically-Valid Readings | PPG Optical Heart‑Rate Sensor | Measures blood‑volume changes using LED illumination and photodiode detection to generate reliable BPM signals |
+| Accurate and Clinically-Valid Readings | Dual‑Wavelength LED System | Uses green and infrared LEDs to improve signal penetration and accuracy across varying skin tones |
+| Accurate and Clinically-Valid Readings | Analog Front‑End Filtering | Removes noise and stabilizes the PPG waveform, ensuring cleaner input for BPM calculation |
+| Accurate and Clinically-Valid Readings | High‑Resolution ADC Sampling | Converts analog PPG signals into precise digital samples for improved heart‑rate extraction |
+| Accurate and Clinically-Valid Readings | Motion Artifact Reduction Algorithm | Filters out movement‑induced distortions to maintain accurate readings during daily activity |
+| Comfortable and Skin-Friendly Wearability | Hypoallergenic Silicone Strap | Prevents skin irritation and supports extended daily wear for sensitive users |
+| Comfortable and Skin-Friendly Wearability | Ergonomic Curved Sensor Housing | Maintains consistent skin contact, improving PPG signal quality and overall comfort |
+| Comfortable and Skin-Friendly Wearability | Ventilated Strap Pattern | Enhances airflow to reduce sweat buildup during exercise or long‑term wear |
+| Comfortable and Skin-Friendly Wearability | Lightweight Polymer Enclosure | Reduces wrist fatigue and improves overall wearability throughout the day |
+| Comfortable and Skin-Friendly Wearability | Soft Backplate Cushioning | Provides gentle pressure against the skin while maintaining stable optical viewing |
+| Seamless App Connectivity and Data Export | Bluetooth Low Energy Module | Enables low‑power wireless communication for continuous heart‑rate syncing with mobile devices |
+| Seamless App Connectivity and Data Export | Automatic Pairing Mode | Simplifies device setup by detecting and connecting to the app without manual configuration |
+| Seamless App Connectivity and Data Export | Real‑Time BPM Streaming | Sends live heart‑rate data to the app for workouts or health monitoring |
+| Seamless App Connectivity and Data Export | CSV/JSON Export Function | Allows users to download heart‑rate logs for medical review or personal analysis |
+| Seamless App Connectivity and Data Export | Firmware Updates Over BLE | Provides wireless firmware upgrades to improve performance and add new features |
+| Transparent, High-Value Pricing | Off‑the‑Shelf PPG Sensor | Uses widely available components to reduce cost while maintaining reliable performance |
+| Transparent, High-Value Pricing | Simplified PCB Layout | Minimizes manufacturing complexity, lowering production cost and improving assembly reliability |
+| Transparent, High-Value Pricing | Open‑Source Firmware Libraries | Reduces licensing fees and simplifies long‑term software maintenance |
+| Transparent, High-Value Pricing | Modular Internal Design | Allows individual component replacement without requiring full device replacement |
+| Transparent, High-Value Pricing | Efficient Component Sourcing | Uses common parts to maintain stable pricing and reduce supply chain delays |
+| Ease of Use and Clear Navigation | Single Multi‑Function Button | Provides simple control for power, pairing, and measurement modes with minimal user confusion |
+| Ease of Use and Clear Navigation | LED Status Indicator | Displays battery, pairing, and measurement status using intuitive color signals |
+| Ease of Use and Clear Navigation | Haptic Vibration Alerts | Confirms user actions and alerts abnormal heart‑rate events without requiring a screen |
+| Ease of Use and Clear Navigation | Auto‑Start Measurement Mode | Begins heart‑rate monitoring automatically when worn, reducing user steps |
+| Ease of Use and Clear Navigation | Simple App Dashboard | Presents BPM, trends, and alerts clearly for users with limited technical experience |
+| Durability and High Manufacturing Quality | IP67 Waterproof Gasket Sealing | Uses silicone O-rings and sealed housing seams to protect internal electronics from sweat, dust, and water ingress |
+| Durability and High Manufacturing Quality | Scratch-Resistant Optical Window | Protects the PPG LEDs and photodiode with hardened polycarbonate or Gorilla Glass to prevent signal degradation over time |
+| Durability and High Manufacturing Quality | Conformal PCB Coating | Applies a thin protective polymer layer over circuit components to guard against moisture, corrosion, and mechanical vibration |
+| Durability and High Manufacturing Quality | Reinforced Stainless Steel Lug Pins | Secures the strap to the enclosure using thickened housing walls and metal spring bars to prevent tearing during vigorous activity |
+| Durability and High Manufacturing Quality | Impact-Resistant ABS/PC Enclosure | Absorbs mechanical shock from accidental drops or daily impacts to prevent housing cracks and internal solder joint failure |
+| Good Battery Life | Deep-Sleep Microcontroller Mode | Places the main processor into ultra-low-power sleep between heart-rate sampling intervals to minimize idle energy draw |
+| Good Battery Life | Duty-Cycled LED Pulsing | Rapidly pulses the optical sensor LEDs at a low duty cycle rather than running continuous illumination to cut power consumption |
+| Good Battery Life | High-Density LiPo Battery Cell | Maximizes milliamp-hour capacity within a compact physical footprint to support extended multi-day operation |
+| Good Battery Life | Motion-Triggered Auto-Sleep | Uses an onboard accelerometer to power down optical sensing when the device is stationary or removed from the wrist |
+| Good Battery Life | Batch BLE Data Transmission | Buffers BPM readings locally in onboard memory and transmits data in periodic bursts rather than keeping the radio continuously active |
+| Regulate system power from 9 volts to 5 volts | Synchronous Buck Converter IC | Steps down 9V to 5V with high efficiency using pulse-width modulation to minimize heat dissipation and battery drain |
+| Regulate system power from 9 volts to 5 volts | Low-Dropout (LDO) Linear Regulator | Provides a simple, ripple-free 5V output ideal for powering noise-sensitive analog PPG sensor circuitry |
+| Regulate system power from 9 volts to 5 volts | Hybrid Buck-LDO Two-Stage Regulator | Steps 9V down to 5.5V via a switching converter followed by a 5V LDO to combine thermal efficiency with low analog noise |
+| Regulate system power from 9 volts to 5 volts | Switched-Capacitor Charge Pump | Regulates 9V down to 5V using flying capacitors without inductors, reducing electromagnetic interference and PCB height |
+| Regulate system power from 9 volts to 5 volts | Zener Diode Shunt Regulator | Uses a 5.1V Zener diode and series resistor network for basic, low-cost voltage clamping in low-current auxiliary subcircuits |
+| Provide over-amperage project to not exceed 1.5 amps | Resettable PTC Polyfuse | Transitions to a high-resistance state to limit current when draw exceeds 1.5A, automatically resetting once the fault clears |
+| Provide over-amperage project to not exceed 1.5 amps | Electronic eFuse IC | Actively monitors current via an internal FET and disconnects the load within microseconds if draw surpasses the 1.5A threshold |
+| Provide over-amperage project to not exceed 1.5 amps | Fast-Blow Surface-Mount Fuse | Permanently opens the power rail if current exceeds 1.5A to protect downstream components and the user from severe short circuits |
+| Provide over-amperage project to not exceed 1.5 amps | Shunt Resistor with Comparator Cutoff | Measures voltage drop across a precision sense resistor and triggers a P-channel MOSFET shutoff when current reaches 1.5A |
+| Provide over-amperage project to not exceed 1.5 amps | Foldback Current-Limiting Circuit | Reduces both output voltage and current in the regulator stage when load current hits 1.5A to prevent overheating without full shutdown |
 
 ## Step Three:
 
