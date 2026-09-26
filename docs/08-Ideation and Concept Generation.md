@@ -5,16 +5,16 @@ title: Ideation and Concept Generation
 ## Step 2:
 | Requirement / need         | Feature                             |  Detail         |       
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| Accurate and Clinically-Valid Readings | hhhhhh     |  wwwwww           |
-| Accurate and Clinically-Valid Readings | hhhhhh     |  wwwwww           |
-| Accurate and Clinically-Valid Readings | hhhhhh     |  wwwwww           |
-| Accurate and Clinically-Valid Readings | hhhhhh     |  wwwwww           |
-| Accurate and Clinically-Valid Readings | hhhhhh     |  wwwwww           |
-| Comfortable and Skin-Friendly Wearability    |  hhh                 |       hhh         |
-| Comfortable and Skin-Friendly Wearability    |  hhh                 |       hhh         |
-| Comfortable and Skin-Friendly Wearability    |  hhh                 |       hhh         |
-| Comfortable and Skin-Friendly Wearability    |  hhh                 |       hhh         |
-| Comfortable and Skin-Friendly Wearability    |  hhh                 |       hhh         |
+| Accurate and Clinically-Valid Readings | PPG Optical Heart‑Rate Sensor  |  Measures blood‑volume changes using LED illumination and photodiode detection to generate reliable BPM signals     |
+| Accurate and Clinically-Valid Readings | Dual‑Wavelength LED System     |  Uses green and infrared LEDs to improve signal penetration and accuracy across varying skin tones        |
+| Accurate and Clinically-Valid Readings | Analog Front‑End Filtering     |  Removes noise and stabilizes the PPG waveform, ensuring cleaner input for BPM calculation        |
+| Accurate and Clinically-Valid Readings | High‑Resolution ADC Sampling    | Converts analog PPG signals into precise digital samples for improved heart‑rate extraction       |
+| Accurate and Clinically-Valid Readings | Motion Artifact Reduction Algorithm   | Filters out movement‑induced distortions to maintain accurate readings during daily activity        |
+| Comfortable and Skin-Friendly Wearability    |  Hypoallergenic Silicone Strap           |  Prevents skin irritation and supports extended daily wear for sensitive users        |
+| Comfortable and Skin-Friendly Wearability    |  Ergonomic Curved Sensor Housing         |  Maintains consistent skin contact, improving PPG signal quality and overall comfort         |
+| Comfortable and Skin-Friendly Wearability    |  Ventilated Strap Pattern                |  Enhances airflow to reduce sweat buildup during exercise or long‑term wear         |
+| Comfortable and Skin-Friendly Wearability    |  Lightweight Polymer Enclosure           |  Reduces wrist fatigue and improves overall wearability throughout the day         |
+| Comfortable and Skin-Friendly Wearability    |  Soft Backplate Cushioning               |  Provides gentle pressure against the skin while maintaining stable optical viewing         |
 | Seamless App Connectivity and Data Export                |                  |            |
 | Seamless App Connectivity and Data Export                |                  |            |
 | Seamless App Connectivity and Data Export                |                  |            |
