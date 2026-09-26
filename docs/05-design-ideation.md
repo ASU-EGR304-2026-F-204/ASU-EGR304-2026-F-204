@@ -51,7 +51,7 @@ title: Design Ideation
 | Provide over-amperage project to not exceed 1.5 amps | Shunt Resistor with Comparator Cutoff | Measures voltage drop across a precision sense resistor and triggers a P-channel MOSFET shutoff when current reaches 1.5A |
 | Provide over-amperage project to not exceed 1.5 amps | Foldback Current-Limiting Circuit | Reduces both output voltage and current in the regulator stage when load current hits 1.5A to prevent overheating without full shutdown |
 
-## Step 3: Sort, Rank, and Group
+## Step Three: Sort, Rank, and Group
 
 ### 1. Sorting the Ideas into Groups
 
