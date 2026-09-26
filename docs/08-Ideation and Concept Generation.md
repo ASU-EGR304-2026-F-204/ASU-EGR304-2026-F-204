@@ -15,21 +15,21 @@ title: Ideation and Concept Generation
 | Comfortable and Skin-Friendly Wearability    |  Ventilated Strap Pattern                |  Enhances airflow to reduce sweat buildup during exercise or long‑term wear         |
 | Comfortable and Skin-Friendly Wearability    |  Lightweight Polymer Enclosure           |  Reduces wrist fatigue and improves overall wearability throughout the day         |
 | Comfortable and Skin-Friendly Wearability    |  Soft Backplate Cushioning               |  Provides gentle pressure against the skin while maintaining stable optical viewing         |
-| Seamless App Connectivity and Data Export                |                  |            |
-| Seamless App Connectivity and Data Export                |                  |            |
-| Seamless App Connectivity and Data Export                |                  |            |
-| Seamless App Connectivity and Data Export                |                  |            |
-| Seamless App Connectivity and Data Export                |                  |            |
-| Transparent, High-Value Pricing  | ...     |  ..... |
-| Transparent, High-Value Pricing  | ...     |  ..... |
-| Transparent, High-Value Pricing  | ...     |  ..... |
-| Transparent, High-Value Pricing  | ...     |  ..... |
-| Transparent, High-Value Pricing  | ...     |  ..... |
-| Ease of Use and Clear Navigation   | .... | .... |
-| Ease of Use and Clear Navigation   | .... | .... |
-| Ease of Use and Clear Navigation   | .... | .... |
-| Ease of Use and Clear Navigation   | .... | .... |
-| Ease of Use and Clear Navigation   | .... | .... |
+| Seamless App Connectivity and Data Export                | Bluetooth Low Energy Module            |  Enables low‑power wireless communication for continuous heart‑rate syncing with mobile devices          |
+| Seamless App Connectivity and Data Export                | Automatic Pairing Mode                 |  Simplifies device setup by detecting and connecting to the app without manual configuration           |
+| Seamless App Connectivity and Data Export                | Real‑Time BPM Streaming                |  Sends live heart‑rate data to the app for workouts or health monitoring          |
+| Seamless App Connectivity and Data Export                | CSV/JSON Export Function               |  Allows users to download heart‑rate logs for medical review or personal analysis          |
+| Seamless App Connectivity and Data Export                | Firmware Updates Over BLE              |  Provides wireless firmware upgrades to improve performance and add new features          |
+| Transparent, High-Value Pricing  | Off‑the‑Shelf PPG Sensor     |  Uses widely available components to reduce cost while maintaining reliable performance |
+| Transparent, High-Value Pricing  | Simplified PCB Layout      |  Minimizes manufacturing complexity, lowering production cost and improving assembly reliability |
+| Transparent, High-Value Pricing  | Open‑Source Firmware Libraries     |  Reduces licensing fees and simplifies long‑term software maintenance |
+| Transparent, High-Value Pricing  | Modular Internal Design      |  Allows individual component replacement without requiring full device replacement |
+| Transparent, High-Value Pricing  | Efficient Component Sourcing     |  Uses common parts to maintain stable pricing and reduce supply chain delays |
+| Ease of Use and Clear Navigation   | Single Multi‑Function Button | Provides simple control for power, pairing, and measurement modes with minimal user confusion |
+| Ease of Use and Clear Navigation   | LED Status Indicator  | Displays battery, pairing, and measurement status using intuitive color signals |
+| Ease of Use and Clear Navigation   | Haptic Vibration Alerts  |  Confirms user actions and alerts abnormal heart‑rate events without requiring a screen |
+| Ease of Use and Clear Navigation   | Auto‑Start Measurement Mode  | Begins heart‑rate monitoring automatically when worn, reducing user steps |
+| Ease of Use and Clear Navigation   | Simple App Dashboard  | Presents BPM, trends, and alerts clearly for users with limited technical experience |
 | Durability and High Manufacturing Quality  |      |       |
 | Durability and High Manufacturing Quality  |      |       |
 | Durability and High Manufacturing Quality  |      |       |
