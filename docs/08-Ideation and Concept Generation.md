@@ -6,13 +6,49 @@ title: Ideation and Concept Generation
 | Requirement / need         | Feature                             |  Detail         |       
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | Accurate and Clinically-Valid Readings | hhhhhh     |  wwwwww           |
-| Comfortable and Skin-Friendly Wearability    |  hhh                 |       hhh         |                                                                      
+| Accurate and Clinically-Valid Readings | hhhhhh     |  wwwwww           |
+| Accurate and Clinically-Valid Readings | hhhhhh     |  wwwwww           |
+| Accurate and Clinically-Valid Readings | hhhhhh     |  wwwwww           |
+| Accurate and Clinically-Valid Readings | hhhhhh     |  wwwwww           |
+| Comfortable and Skin-Friendly Wearability    |  hhh                 |       hhh         |
+| Comfortable and Skin-Friendly Wearability    |  hhh                 |       hhh         |
+| Comfortable and Skin-Friendly Wearability    |  hhh                 |       hhh         |
+| Comfortable and Skin-Friendly Wearability    |  hhh                 |       hhh         |
+| Comfortable and Skin-Friendly Wearability    |  hhh                 |       hhh         |
+| Seamless App Connectivity and Data Export                |                  |            |
+| Seamless App Connectivity and Data Export                |                  |            |
+| Seamless App Connectivity and Data Export                |                  |            |
+| Seamless App Connectivity and Data Export                |                  |            |
 | Seamless App Connectivity and Data Export                |                  |            |
 | Transparent, High-Value Pricing  | ...     |  ..... |
+| Transparent, High-Value Pricing  | ...     |  ..... |
+| Transparent, High-Value Pricing  | ...     |  ..... |
+| Transparent, High-Value Pricing  | ...     |  ..... |
+| Transparent, High-Value Pricing  | ...     |  ..... |
+| Ease of Use and Clear Navigation   | .... | .... |
+| Ease of Use and Clear Navigation   | .... | .... |
+| Ease of Use and Clear Navigation   | .... | .... |
+| Ease of Use and Clear Navigation   | .... | .... |
 | Ease of Use and Clear Navigation   | .... | .... |
 | Durability and High Manufacturing Quality  |      |       |
+| Durability and High Manufacturing Quality  |      |       |
+| Durability and High Manufacturing Quality  |      |       |
+| Durability and High Manufacturing Quality  |      |       |
+| Durability and High Manufacturing Quality  |      |       |
+| Good Battery Life    |     |      |
+| Good Battery Life    |     |      |
+| Good Battery Life    |     |      |
+| Good Battery Life    |     |      |
 | Good Battery Life    |     |      |
 | Regulate system power from 9 volts to 5 volts   |        |         |
+| Regulate system power from 9 volts to 5 volts   |        |         |
+| Regulate system power from 9 volts to 5 volts   |        |         |
+| Regulate system power from 9 volts to 5 volts   |        |         |
+| Regulate system power from 9 volts to 5 volts   |        |         |
+| Provide over-amperage project to not exceed 1.5 amps   |      |     |
+| Provide over-amperage project to not exceed 1.5 amps   |      |     |
+| Provide over-amperage project to not exceed 1.5 amps   |      |     |
+| Provide over-amperage project to not exceed 1.5 amps   |      |     |
 | Provide over-amperage project to not exceed 1.5 amps   |      |     |
 
 
