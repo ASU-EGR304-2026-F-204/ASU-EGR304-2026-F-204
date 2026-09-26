@@ -51,87 +51,87 @@ title: Design Ideation
 | Provide over-amperage project to not exceed 1.5 amps | Shunt Resistor with Comparator Cutoff | Measures voltage drop across a precision sense resistor and triggers a P-channel MOSFET shutoff when current reaches 1.5A |
 | Provide over-amperage project to not exceed 1.5 amps | Foldback Current-Limiting Circuit | Reduces both output voltage and current in the regulator stage when load current hits 1.5A to prevent overheating without full shutdown |
 
-# Step 3: Sort, Rank, and Group
+## Step 3: Sort, Rank, and Group
 
-## 1. Sorting the Ideas into Groups
+### 1. Sorting the Ideas into Groups
 
 After reviewing our brainstorm, we organized the features into five main groups based on the user needs they address. The five groups were **accurate and clinically valid readings, comfortable and skin friendly wearability, seamless app connectivity and data export, transparent and high value pricing, and ease of use and clear navigation.**
 
-### Accurate and Clinically Valid Readings
+##### Accurate and Clinically Valid Readings
 
 This group contains the features responsible for collecting and processing accurate heart rate data. These include the PPG optical heart rate sensor, dual wavelength LED system, analog front end filtering, high resolution ADC sampling, and motion artifact reduction algorithm. Together, these features focus on making sure that the device can consistently produce reliable heart rate measurements during both stationary and active use.
 
-### Comfortable and Skin Friendly Wearability
+##### Comfortable and Skin Friendly Wearability
 
 This group focuses on making the device comfortable enough for users to wear for extended periods. The features include a hypoallergenic silicone strap, ergonomic curved sensor housing, ventilated strap pattern, lightweight polymer enclosure, and soft backplate cushioning. These features work together to reduce skin irritation, sweat buildup, wrist fatigue, and discomfort while also maintaining consistent contact between the sensor and the user's skin.
 
-### Seamless App Connectivity and Data Export
+##### Seamless App Connectivity and Data Export
 
 This group focuses on connecting the device to a mobile application and making the collected information useful to the user. The features include Bluetooth Low Energy, automatic pairing, real time BPM streaming, CSV and JSON data export, and firmware updates over Bluetooth. These features allow users to easily connect the device, monitor their heart rate, save their data, and maintain the device through software updates.
 
-### Transparent, High Value Pricing
+##### Transparent, High Value Pricing
 
 This group focuses on keeping the product affordable while maintaining its functionality and reliability. The features include using an off the shelf PPG sensor, a simplified PCB layout, open source firmware libraries, a modular internal design, and efficient component sourcing. These features could reduce manufacturing and maintenance costs while allowing the product to remain functional and reliable.
 
-### Ease of Use and Clear Navigation
+##### Ease of Use and Clear Navigation
 
 This group focuses on making the device simple to operate without requiring extensive technical knowledge. The features include a single multifunction button, LED status indicator, haptic vibration alerts, automatic measurement mode, and a simple app dashboard. These features reduce the number of steps required from the user and provide clear feedback about the device's status.
 
 ---
 
-## 2. Ranking and Discussing the Top Ideas
+#### 2. Ranking and Discussing the Top Ideas
 
 After sorting the ideas, we discussed which features were most important within each group. We focused on features that directly addressed the primary purpose of the product while also improving the overall user experience.
 
-### Accurate and Clinically Valid Readings
+##### Accurate and Clinically Valid Readings
 
 The **PPG optical heart rate sensor** and **motion artifact reduction algorithm** were among the most important features. The PPG sensor is necessary to collect the heart rate data, while motion artifact reduction can help maintain more consistent readings when the user is moving.
 
-### Comfortable and Skin Friendly Wearability
+##### Comfortable and Skin Friendly Wearability
 
 The **ergonomic curved sensor housing** and **hypoallergenic silicone strap** were important because the device needs to maintain consistent contact with the skin without becoming uncomfortable during extended use.
 
-### Seamless App Connectivity and Data Export
+##### Seamless App Connectivity and Data Export
 
 **Bluetooth Low Energy** and **real time BPM streaming** were important because they allow the device to communicate continuously with the user's phone. The **CSV and JSON export function** was also considered valuable because it gives users more control over their collected data.
 
-### Transparent, High Value Pricing
+##### Transparent, High Value Pricing
 
 The use of **off the shelf components** and **efficient component sourcing** were important because these features could help lower the overall cost of manufacturing the device.
 
-### Ease of Use and Clear Navigation
+##### Ease of Use and Clear Navigation
 
 The **simple app dashboard** and **automatic measurement mode** were among the strongest ideas. These features reduce the number of actions the user needs to perform and make the information easier to understand.
 
 ---
 
-## 3. Generating New Features
+#### 3. Generating New Features
 
 After discussing the strongest ideas, we began combining features from different groups to create new features. This allowed us to move beyond the original brainstorm and develop ideas that could provide multiple benefits at the same time.
 
-### Automatic Monitoring System
+##### Automatic Monitoring System
 
 We could combine **automatic measurement mode**, **Bluetooth Low Energy**, and **real time BPM streaming** into an automatic monitoring system. When the user puts on the device, it could automatically begin collecting heart rate data and send that information to the mobile application without requiring the user to manually start a measurement.
 
-### Intelligent Heart Rate Alerts
+##### Intelligent Heart Rate Alerts
 
 Another new feature could combine the **motion artifact reduction algorithm** with **haptic vibration alerts**. This could allow the device to analyze the user's heart rate while accounting for movement and provide a vibration alert when a potentially abnormal heart rate is detected.
 
-### Modular Repair and Upgrade System
+##### Modular Repair and Upgrade System
 
 We could also combine the **modular internal design** with the **off the shelf PPG sensor** to create a device that is easier to repair or upgrade. Instead of replacing the entire device when a component fails or becomes outdated, individual components could potentially be replaced.
 
 ---
 
-# Product Concepts
+### Product Concepts
 
 After sorting and ranking the features, we created three separate product concepts. Each concept uses a different combination of the brainstormed features so that the concepts have distinct priorities while still addressing the main needs of the user.
 
-## Product Concept 1: Clinical Monitoring Focus
+#### Product Concept 1: Clinical Monitoring Focus
 
 The first concept focuses primarily on accurate and reliable heart rate measurements. It would prioritize the features necessary for collecting high quality data and reducing inaccuracies.
 
-### Primary Features
+##### Primary Features
 
 1. PPG optical heart rate sensor
 2. Dual wavelength LED system
@@ -147,11 +147,11 @@ This concept would be designed around users who place a high priority on having 
 
 ---
 
-## Product Concept 2: Everyday Comfort and Simplicity
+#### Product Concept 2: Everyday Comfort and Simplicity
 
 The second concept focuses primarily on making the device comfortable and easy to use throughout the day. Rather than emphasizing advanced features, this concept combines the features that make the device simple, comfortable, and convenient.
 
-### Primary Features
+##### Primary Features
 
 1. Hypoallergenic silicone strap
 2. Ventilated strap pattern
@@ -168,11 +168,11 @@ This concept would be designed for users who want continuous heart rate monitori
 
 ---
 
-## Product Concept 3: Affordable Modular Design
+#### Product Concept 3: Affordable Modular Design
 
 The third concept focuses primarily on affordability, maintainability, and long term value. It combines the cost reduction features with enough monitoring and connectivity features to maintain the core functionality of the product.
 
-### Primary Features
+##### Primary Features
 
 1. Off the shelf PPG sensor
 2. Simplified PCB layout
@@ -189,7 +189,7 @@ This concept would focus on providing the core functionality of the product whil
 
 ---
 
-## Features Kept for Future Inspiration
+#### Features Kept for Future Inspiration
 
 Features that were not selected for a particular product concept were not discarded. We kept the remaining ideas separate so that they could be reused if we modify one of the concepts later. This allows us to continue developing the designs without losing any of the ideas generated during the original brainstorming session.
 
