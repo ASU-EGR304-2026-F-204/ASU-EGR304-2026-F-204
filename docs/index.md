@@ -19,6 +19,8 @@ Professor Nichols<br>
 ## Team Introduction
 This website documents the current project of team 204 in the fall of 2026 for ASU's EGR 304 class. Below are all the team members and their individual datasheets. The navigation at the top contains the rest of the content for this site.
 
+Our mission is to design and develop a reliable, user-friendly wearable heart rate monitor that delivers accurate, real-time health data to help users better understand and manage their physical activity and cardiovascular wellness. By applying a disciplined engineering process, rigorous testing, and collaborative design practices, we will create a comfortable, durable, and manufacturable prototype that meets defined performance standards and has a clear path toward further development and market evaluation.
+
 ## Team Members Datasheet links
 
 | **Team Member**        |**Ind Datasheet Links** |
