@@ -2,7 +2,7 @@
 title: Team Block Diagram
 ---
 
-![Block Diagram](./image/block_diagram.png)
+![Block Diagram](Team_Block.png)
 *Figure 1. Our block diagram.*
 
 
