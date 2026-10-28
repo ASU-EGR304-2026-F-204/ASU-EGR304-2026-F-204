@@ -7,7 +7,7 @@ tags:
 <center>
 <font size="8">Heart Rate Monitor<br>
 <font size="5">Team 204<br>
-**Submission: September, 14, 2026**<br>
+**Submission: October 28, 2026**<br>
 Fall 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
