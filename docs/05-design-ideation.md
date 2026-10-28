@@ -199,6 +199,7 @@ Overall, the three concepts represent different combinations of the same origina
 ![](<image/HRT 1.png>)
 ![](<image/HRT 2.png>)
 ![](<image/HRT 3.png>)
+**The chosen design is the 3rd design. The rounded design will allow for it to be easily found and modular will little heartful edges. Keeping it simple while maintaining the needed room for all team member contributions.**
 ## Step Five 
 Our team used a brainstorming method called rapid ideation to generate as many ideas and concepts as possible within a short period of time. We began by writing down as many random words and ideas as we could on the whiteboards in the library within a five-minute period. The purpose of this initial stage was not to evaluate the quality of each idea, but to generate a large number of concepts for later evaluation. For example, we may have initially written a word such as “shoe,” which we eventually removed because it was not directly relevant to our project, while concepts such as “sweat” and “comfort” were retained because they were more applicable to our heart rate monitor design.
 
