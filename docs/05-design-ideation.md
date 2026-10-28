@@ -2,7 +2,7 @@
 title: Design Ideation
 ---
 
-## Step Two: Generating Ideas
+## Step 1: Generating Ideas
 | Requirement / need | Feature | Detail |
 | :--- | :--- | :--- |
 | Accurate and Clinically-Valid Readings | PPG Optical Heart‑Rate Sensor | Measures blood‑volume changes using LED illumination and photodiode detection to generate reliable BPM signals |
